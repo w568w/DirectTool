@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:2:1-123:12
+	xmlns:tools
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:6:5-35
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:27:22-65
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:28:22-85
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:31:22-77
+application
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:33:5-121:19
+	android:label
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:36:9-38
+	android:theme
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:38:9-44
+	tools:replace
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:39:9-52
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:34:9-60
+meta-data#BUG_HD_SDK_GENERAL_KEY
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:40:9-42:64
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:41:13-50
+	android:value
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:42:13-61
+activity#ml.qingsu.test.Mainjava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:44:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:48:27-74
+activity#ml.qingsu.test.ListJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:51:9-54:36
+	android:label
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:54:13-33
+	android:icon
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:53:13-46
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:52:13-51
+activity#ml.qingsu.test.WeatherJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:55:9-63
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:55:19-60
+activity#ml.qingsu.test.SettingsJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:56:9-64
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:56:19-61
+activity#ml.qingsu.test.TalkJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:57:9-60
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:57:19-57
+activity#ml.qingsu.test.WiFiJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:58:9-60
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:58:19-57
+activity#ml.qingsu.test.QRcodeJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:59:9-62
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:59:19-59
+activity#ml.qingsu.test.TranslateJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:60:9-65
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:60:19-62
+receiver#ml.qingsu.test.LockReceiver
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:62:9-74:20
+	android:label
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:65:13-45
+	android:description
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:64:13-51
+	android:permission
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:66:13-70
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:63:13-55
+meta-data#android.app.device_admin
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:67:13-69:55
+	android:resource
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:69:17-52
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:68:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:71:13-73:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:72:17-82
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:72:25-79
+activity#ml.qingsu.test.LockJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:76:9-79:64
+	android:theme
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:79:13-61
+	android:exported
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:77:13-51
+activity#ml.qingsu.test.ViewJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:80:9-60
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:80:19-57
+activity#ml.qingsu.test.FenbeiJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:81:9-62
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:81:19-59
+activity#ml.qingsu.test.MusicJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:82:9-61
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:82:19-58
+activity#ml.qingsu.test.MusiclookforJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:83:9-68
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:83:19-65
+activity#ml.qingsu.test.Music_addJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:84:9-65
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:84:19-62
+activity#ml.qingsu.test.ShutdownDialogViewJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:85:9-88:64
+	android:theme
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:88:13-61
+	android:exported
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:86:13-65
+activity#ml.qingsu.test.HongzhaJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:89:9-63
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:89:19-60
+activity#ml.qingsu.test.YiYan_settingsJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:90:9-70
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:90:19-67
+receiver#ml.qingsu.test.YiYan_WidgetProvider
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:92:9-100:20
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:92:19-69
+meta-data#android.appwidget.provider
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:93:13-95:52
+	android:resource
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:95:17-49
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:94:17-58
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:97:13-99:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:98:17-84
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:98:25-81
+service#ml.qingsu.test.InstallAccessibilityService
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:102:9-113:19
+	android:label
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:104:13-33
+	android:permission
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:105:13-79
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:103:13-70
+intent-filter#android.accessibilityservice.AccessibilityService
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:106:13-108:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:107:17-92
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:107:25-89
+meta-data#android.accessibilityservice
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:110:13-112:72
+	android:resource
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:112:17-69
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:111:17-60
+activity#ml.qingsu.test.QQZiShuJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:115:9-63
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:115:19-60
+activity#ml.qingsu.test.ShaojiJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:116:9-62
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:116:19-59
+activity#ml.qingsu.test.TodoListJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:117:9-64
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:117:19-61
+activity#ml.qingsu.test.PaoFenJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:118:9-62
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:118:19-59
+activity#ml.qingsu.test.Paofen_TASK_Java
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:119:9-68
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:119:19-65
+activity#ml.qingsu.test.CleanerJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:120:9-72
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:120:19-60
+uses-sdk
+INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml
+		INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml

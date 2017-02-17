@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/com/ericsoft/bmob/bson/BSONString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/com/ericsoft/bmob/restapi/Bmob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/com/example/testwifi/WifiSearcher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/com/example/wifipassword/WifiManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/com/musicplayer/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/ArrayListTypeException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/FenbeiJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/GetListData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/HeadsetReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/HongzhaJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/IceboxJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/ImageService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/ListJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/Mainjava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/MusicJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/MusicNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/Music_Adapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/MusiclookforJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/QQZiShuJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/QRcodeJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/SettingsJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/ShutdownDialogViewJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/So_Adapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/StreamTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/Tools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/TranslateJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/WeatherJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/WiFiJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/YiYan_WidgetProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/test/YiYan_settingsJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/wifi/CommonTools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/directloadtest/src/main/java/ml/qingsu/wifi/MD5.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

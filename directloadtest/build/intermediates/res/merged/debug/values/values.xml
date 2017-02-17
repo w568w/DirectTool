@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingActionButton"><attr format="integer" name="drawable"/><attr format="color" name="color_a"/><attr format="float" name="shadowRadius"/><attr format="float" name="shadowDx"/><attr format="float" name="shadowDy"/><attr format="integer" name="shadowColor"/></declare-styleable>
+    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type"><enum name="simpleRipple" value="0"/><enum name="doubleRipple" value="1"/><enum name="rectangle" value="2"/></attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">DIRECT-TOOL</string>
+    <string name="des">自动安装，无需等（手）待（动）!(只能在4.0以上用)</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+</resources>

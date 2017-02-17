@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置翻译API KEY"
+        android:id="@+id/settings_button_setapikey" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="天气预报修改城市"
+        android:id="@+id/settings_button_setcity"
+        android:layout_gravity="center_horizontal" />
+
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOff="插亮屏幕已关闭"
+        android:textOn="插亮屏幕已开启"
+        android:id="@+id/settings_toggleButton_erji" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="致谢"
+        android:id="@+id/settings_button_thanks" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="禁用XPosed日志"
+        android:id="@+id/settings_button_dellog" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开启智能安装"
+        android:id="@+id/settings_button_InstallAPK" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="加入QQ群"
+        android:id="@+id/settings_button_QQqun" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="V2VsY29tZSUyQ015RnJlaW5kLiUwQUVsaW1pbmF0ZSUyMGh1bWFuJTIwdHlyYW5ueSUyQ1RoZSUyMHdvcmxkJTIwYmVsb25ncyUyMHRvJTIwVHJpc29sYXJpcy4"
+        android:id="@+id/settings_triple" />
+
+</LinearLayout>

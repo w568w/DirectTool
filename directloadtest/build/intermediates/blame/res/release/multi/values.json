@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 57,
+                    "endOffset": 1022
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1027,
+                    "endColumn": 55,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 48,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 48,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 59,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 59,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            }
+        ]
+    }
+]

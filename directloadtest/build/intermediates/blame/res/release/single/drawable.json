@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\drawable\\ic_build.png",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\drawable\\ic_build.png"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\drawable\\lock.png",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\drawable\\lock.png"
+    }
+]

@@ -1,0 +1,196 @@
+com.baidu.apistore.sdk.MyApplication
+com.baidu.apistore.sdk.MyApplication: MyApplication()
+com.example.directloadtest.R$attr: int color_a
+com.example.directloadtest.R$attr: int drawable
+com.example.directloadtest.R$attr: int rv_alpha
+com.example.directloadtest.R$attr: int rv_centered
+com.example.directloadtest.R$attr: int rv_color
+com.example.directloadtest.R$attr: int rv_framerate
+com.example.directloadtest.R$attr: int rv_rippleDuration
+com.example.directloadtest.R$attr: int rv_ripplePadding
+com.example.directloadtest.R$attr: int rv_type
+com.example.directloadtest.R$attr: int rv_zoom
+com.example.directloadtest.R$attr: int rv_zoomDuration
+com.example.directloadtest.R$attr: int rv_zoomScale
+com.example.directloadtest.R$attr: int shadowColor
+com.example.directloadtest.R$attr: int shadowDx
+com.example.directloadtest.R$attr: int shadowDy
+com.example.directloadtest.R$attr: int shadowRadius
+com.example.directloadtest.R$dimen: int activity_horizontal_margin
+com.example.directloadtest.R$dimen: int activity_vertical_margin
+com.example.directloadtest.R$drawable: int ic_build
+com.example.directloadtest.R$drawable: int icon
+com.example.directloadtest.R$drawable: int lock
+com.example.directloadtest.R$id: int button_next
+com.example.directloadtest.R$id: int button_prev
+com.example.directloadtest.R$id: int button_talk
+com.example.directloadtest.R$id: int doubleRipple
+com.example.directloadtest.R$id: int download
+com.example.directloadtest.R$id: int editText
+com.example.directloadtest.R$id: int editText_talk
+com.example.directloadtest.R$id: int feibei_feibei
+com.example.directloadtest.R$id: int feibei_orientation
+com.example.directloadtest.R$id: int hongzha_button1
+com.example.directloadtest.R$id: int hongzha_editText1
+com.example.directloadtest.R$id: int hongzha_webView1
+com.example.directloadtest.R$id: int imageView_hahaha
+com.example.directloadtest.R$id: int imageicon
+com.example.directloadtest.R$id: int introduction
+com.example.directloadtest.R$id: int item_textView
+com.example.directloadtest.R$id: int listView1
+com.example.directloadtest.R$id: int listView_talk
+com.example.directloadtest.R$id: int main_listView
+com.example.directloadtest.R$id: int main_ll
+com.example.directloadtest.R$id: int menu_happy
+com.example.directloadtest.R$id: int menu_main
+com.example.directloadtest.R$id: int menu_qq
+com.example.directloadtest.R$id: int menu_search
+com.example.directloadtest.R$id: int menu_system
+com.example.directloadtest.R$id: int music_add_button
+com.example.directloadtest.R$id: int music_add_des
+com.example.directloadtest.R$id: int music_add_name
+com.example.directloadtest.R$id: int music_button2
+com.example.directloadtest.R$id: int music_date
+com.example.directloadtest.R$id: int music_des
+com.example.directloadtest.R$id: int music_good
+com.example.directloadtest.R$id: int music_listview
+com.example.directloadtest.R$id: int music_look_for_edittext
+com.example.directloadtest.R$id: int music_look_for_listView
+com.example.directloadtest.R$id: int music_look_for_search
+com.example.directloadtest.R$id: int music_name
+com.example.directloadtest.R$id: int name
+com.example.directloadtest.R$id: int paofen_button
+com.example.directloadtest.R$id: int paofen_textView
+com.example.directloadtest.R$id: int qq_zishu_button1
+com.example.directloadtest.R$id: int qq_zishu_editText
+com.example.directloadtest.R$id: int qrcode_button
+com.example.directloadtest.R$id: int qrcode_editText
+com.example.directloadtest.R$id: int qrcode_imageView
+com.example.directloadtest.R$id: int qrcode_seekBar1
+com.example.directloadtest.R$id: int qrcode_textView1
+com.example.directloadtest.R$id: int rectangle
+com.example.directloadtest.R$id: int settings_button_InstallAPK
+com.example.directloadtest.R$id: int settings_button_QQqun
+com.example.directloadtest.R$id: int settings_button_dellog
+com.example.directloadtest.R$id: int settings_button_setapikey
+com.example.directloadtest.R$id: int settings_button_setcity
+com.example.directloadtest.R$id: int settings_button_thanks
+com.example.directloadtest.R$id: int settings_toggleButton_erji
+com.example.directloadtest.R$id: int settings_triple
+com.example.directloadtest.R$id: int shaoji_start
+com.example.directloadtest.R$id: int shaoji_stop
+com.example.directloadtest.R$id: int shaoji_stoppppp
+com.example.directloadtest.R$id: int shaoji_xiancheng
+com.example.directloadtest.R$id: int simpleRipple
+com.example.directloadtest.R$id: int textView_title
+com.example.directloadtest.R$id: int textView_title_introduction
+com.example.directloadtest.R$id: int todo_listview
+com.example.directloadtest.R$id: int translate_button
+com.example.directloadtest.R$id: int translate_editText
+com.example.directloadtest.R$id: int translate_result_edittext
+com.example.directloadtest.R$id: int yiyan_button1
+com.example.directloadtest.R$id: int yiyan_editText1
+com.example.directloadtest.R$id: int yiyan_textView1
+com.example.directloadtest.R$layout: int activity_cleaner_java
+com.example.directloadtest.R$layout: int activity_pao_fen_java
+com.example.directloadtest.R$layout: int activity_shaoji
+com.example.directloadtest.R$layout: int activity_todo_list
+com.example.directloadtest.R$layout: int feibei_activity
+com.example.directloadtest.R$layout: int hahaha_toast
+com.example.directloadtest.R$layout: int hongzha_activity
+com.example.directloadtest.R$layout: int input
+com.example.directloadtest.R$layout: int launcher_view
+com.example.directloadtest.R$layout: int main_activity
+com.example.directloadtest.R$layout: int main_activity_items
+com.example.directloadtest.R$layout: int music_activity
+com.example.directloadtest.R$layout: int music_activity_item
+com.example.directloadtest.R$layout: int music_add_activity
+com.example.directloadtest.R$layout: int music_look_for_activity
+com.example.directloadtest.R$layout: int qq_zishu_actvity
+com.example.directloadtest.R$layout: int qrcode_activity
+com.example.directloadtest.R$layout: int settings_activity
+com.example.directloadtest.R$layout: int simple_item
+com.example.directloadtest.R$layout: int so_list
+com.example.directloadtest.R$layout: int so_list_items
+com.example.directloadtest.R$layout: int talk_acticity
+com.example.directloadtest.R$layout: int translate_activity
+com.example.directloadtest.R$layout: int yiyan_settings_activity
+com.example.directloadtest.R$menu: int main_menu
+com.example.directloadtest.R$string: int app_name
+com.example.directloadtest.R$string: int des
+com.example.directloadtest.R$style: int AppBaseTheme
+com.example.directloadtest.R$styleable: int[] FloatingActionButton
+com.example.directloadtest.R$styleable: int FloatingActionButton_color_a
+com.example.directloadtest.R$styleable: int FloatingActionButton_drawable
+com.example.directloadtest.R$styleable: int FloatingActionButton_shadowColor
+com.example.directloadtest.R$styleable: int FloatingActionButton_shadowDx
+com.example.directloadtest.R$styleable: int FloatingActionButton_shadowDy
+com.example.directloadtest.R$styleable: int FloatingActionButton_shadowRadius
+com.example.directloadtest.R$styleable: int[] RippleView
+com.example.directloadtest.R$styleable: int RippleView_rv_alpha
+com.example.directloadtest.R$styleable: int RippleView_rv_centered
+com.example.directloadtest.R$styleable: int RippleView_rv_color
+com.example.directloadtest.R$styleable: int RippleView_rv_framerate
+com.example.directloadtest.R$styleable: int RippleView_rv_rippleDuration
+com.example.directloadtest.R$styleable: int RippleView_rv_ripplePadding
+com.example.directloadtest.R$styleable: int RippleView_rv_type
+com.example.directloadtest.R$styleable: int RippleView_rv_zoom
+com.example.directloadtest.R$styleable: int RippleView_rv_zoomDuration
+com.example.directloadtest.R$styleable: int RippleView_rv_zoomScale
+com.example.directloadtest.R$xml: int accessibility_service_config
+com.example.directloadtest.R$xml: int lock_screen
+com.example.directloadtest.R$xml: int provider
+com.example.testwifi.WifiSearcher$ErrorType: com.example.testwifi.WifiSearcher$ErrorType[] values()
+com.example.testwifi.WifiSearcher$ErrorType: com.example.testwifi.WifiSearcher$ErrorType valueOf(java.lang.String)
+ml.qingsu.test.CleanerJava
+ml.qingsu.test.CleanerJava: CleanerJava()
+ml.qingsu.test.FenbeiJava
+ml.qingsu.test.FenbeiJava: FenbeiJava()
+ml.qingsu.test.HongzhaJava
+ml.qingsu.test.HongzhaJava: HongzhaJava()
+ml.qingsu.test.InstallAccessibilityService
+ml.qingsu.test.InstallAccessibilityService: InstallAccessibilityService()
+ml.qingsu.test.ListJava
+ml.qingsu.test.ListJava: ListJava()
+ml.qingsu.test.LockJava
+ml.qingsu.test.LockJava: LockJava()
+ml.qingsu.test.LockReceiver
+ml.qingsu.test.LockReceiver: LockReceiver()
+ml.qingsu.test.Mainjava
+ml.qingsu.test.Mainjava: Mainjava()
+ml.qingsu.test.MusicJava
+ml.qingsu.test.MusicJava: MusicJava()
+ml.qingsu.test.Music_addJava
+ml.qingsu.test.Music_addJava: Music_addJava()
+ml.qingsu.test.MusiclookforJava
+ml.qingsu.test.MusiclookforJava: MusiclookforJava()
+ml.qingsu.test.PaoFenJava
+ml.qingsu.test.PaoFenJava: PaoFenJava()
+ml.qingsu.test.Paofen_TASK_Java
+ml.qingsu.test.Paofen_TASK_Java: Paofen_TASK_Java()
+ml.qingsu.test.QQZiShuJava
+ml.qingsu.test.QQZiShuJava: QQZiShuJava()
+ml.qingsu.test.QRcodeJava
+ml.qingsu.test.QRcodeJava: QRcodeJava()
+ml.qingsu.test.SettingsJava
+ml.qingsu.test.SettingsJava: SettingsJava()
+ml.qingsu.test.ShaojiJava
+ml.qingsu.test.ShaojiJava: ShaojiJava()
+ml.qingsu.test.ShutdownDialogViewJava
+ml.qingsu.test.ShutdownDialogViewJava: ShutdownDialogViewJava()
+ml.qingsu.test.TalkJava
+ml.qingsu.test.TalkJava: TalkJava()
+ml.qingsu.test.TodoListJava
+ml.qingsu.test.TodoListJava: TodoListJava()
+ml.qingsu.test.TranslateJava
+ml.qingsu.test.TranslateJava: TranslateJava()
+ml.qingsu.test.ViewJava
+ml.qingsu.test.ViewJava: ViewJava()
+ml.qingsu.test.WeatherJava
+ml.qingsu.test.WeatherJava: WeatherJava()
+ml.qingsu.test.WiFiJava
+ml.qingsu.test.WiFiJava: WiFiJava()
+ml.qingsu.test.YiYan_WidgetProvider
+ml.qingsu.test.YiYan_WidgetProvider: YiYan_WidgetProvider()
+ml.qingsu.test.YiYan_settingsJava
+ml.qingsu.test.YiYan_settingsJava: YiYan_settingsJava()

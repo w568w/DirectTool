@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\recyclerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 74,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\recyclerview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 75,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\recyclerview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 71,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\recyclerview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 65,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\recyclerview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    }
+]

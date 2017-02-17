@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:title="主要功能" android:id="@+id/menu_main"/>
+        <item android:title="QQ工具" android:id="@+id/menu_qq"/>
+        <item android:title="搜索" android:id="@+id/menu_search"/>
+        <item android:title="系统工具" android:id="@+id/menu_system"/>
+        <item android:title="娱乐" android:id="@+id/menu_happy"/>
+        <item android:title="推·乐(Beta)" />
+
+
+
+</menu>

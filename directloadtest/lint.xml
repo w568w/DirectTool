@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi">
+        <ignore path="src/ml/qingsu/test/MusicJava.java" />
+    </issue>
+    <issue id="InvalidPackage">
+        <ignore path="libs/okio-1.7.0.jar" />
+    </issue>
+    <issue id="Override">
+        <ignore path="src/android/support/v7/widget/CardView.java" />
+    </issue>
+    <issue id="UseSparseArrays">
+        <ignore path="src/ml/qingsu/test/GetListData.java" />
+    </issue>
+</lint>

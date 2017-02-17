@@ -1,0 +1,81 @@
+# view AndroidManifest.xml #generated:36
+-keep class com.baidu.apistore.sdk.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class ml.qingsu.test.CleanerJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class ml.qingsu.test.FenbeiJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class ml.qingsu.test.HongzhaJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class ml.qingsu.test.InstallAccessibilityService { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class ml.qingsu.test.ListJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class ml.qingsu.test.LockJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class ml.qingsu.test.LockReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class ml.qingsu.test.Mainjava { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class ml.qingsu.test.MusicJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class ml.qingsu.test.Music_addJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class ml.qingsu.test.MusiclookforJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class ml.qingsu.test.PaoFenJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class ml.qingsu.test.Paofen_TASK_Java { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class ml.qingsu.test.QQZiShuJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class ml.qingsu.test.QRcodeJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class ml.qingsu.test.SettingsJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class ml.qingsu.test.ShaojiJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class ml.qingsu.test.ShutdownDialogViewJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class ml.qingsu.test.TalkJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class ml.qingsu.test.TodoListJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class ml.qingsu.test.TranslateJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class ml.qingsu.test.ViewJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class ml.qingsu.test.WeatherJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class ml.qingsu.test.WiFiJava { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class ml.qingsu.test.YiYan_WidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class ml.qingsu.test.YiYan_settingsJava { <init>(...); }
+

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\xml\\accessibility_service_config.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\xml\\provider.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\provider.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\xml\\lock_screen.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\lock_screen.xml"
+    }
+]

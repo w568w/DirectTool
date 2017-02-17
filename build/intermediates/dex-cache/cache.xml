@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\libs\zxing.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\build\intermediates\pre-dexed\debug\zxing_d89426e6046b8374c5827f48a898d51a15b6dd3c.jar" />
+    </item>
+
+</items>

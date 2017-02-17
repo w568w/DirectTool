@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.directloadtest"
+    android:versionCode="88"
+    android:versionName="1.13(88)">
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.baidu.apistore.sdk.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme"
+        tools:replace="android:icon, android:theme">
+        <meta-data
+            android:name="BUG_HD_SDK_GENERAL_KEY"
+            android:value="31ea4b3de7baa3c3628cfeaf2615d7e8" />
+
+        <activity android:name="ml.qingsu.test.Mainjava">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ml.qingsu.test.ListJava"
+            android:icon="@drawable/ic_build"
+            android:label="搜索结果" />
+        <activity android:name="ml.qingsu.test.WeatherJava" />
+        <activity android:name="ml.qingsu.test.SettingsJava" />
+        <activity android:name="ml.qingsu.test.TalkJava" />
+        <activity android:name="ml.qingsu.test.WiFiJava" />
+        <activity android:name="ml.qingsu.test.QRcodeJava" />
+        <activity android:name="ml.qingsu.test.TranslateJava" />
+
+        <receiver
+            android:name="ml.qingsu.test.LockReceiver"
+            android:description="@string/app_name"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/lock_screen" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="ml.qingsu.test.LockJava"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="ml.qingsu.test.ViewJava" />
+        <activity android:name="ml.qingsu.test.FenbeiJava" />
+        <activity android:name="ml.qingsu.test.MusicJava" />
+        <activity android:name="ml.qingsu.test.MusiclookforJava" />
+        <activity android:name="ml.qingsu.test.Music_addJava" />
+        <activity
+            android:name="ml.qingsu.test.ShutdownDialogViewJava"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="ml.qingsu.test.HongzhaJava" />
+        <activity android:name="ml.qingsu.test.YiYan_settingsJava" />
+
+        <receiver android:name="ml.qingsu.test.YiYan_WidgetProvider">
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/provider" />
+
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="ml.qingsu.test.InstallAccessibilityService"
+            android:label="智能安装"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+
+        <activity android:name="ml.qingsu.test.QQZiShuJava" />
+        <activity android:name="ml.qingsu.test.ShaojiJava" />
+        <activity android:name="ml.qingsu.test.TodoListJava" />
+        <activity android:name="ml.qingsu.test.PaoFenJava" />
+        <activity android:name="ml.qingsu.test.Paofen_TASK_Java" />
+        <activity android:name="ml.qingsu.test.CleanerJava"></activity>
+    </application>
+
+</manifest>

@@ -1,5 +1,6 @@
 com.baidu.apistore.sdk.MyApplication
 com.baidu.apistore.sdk.MyApplication: MyApplication()
+com.example.directloadtest.R$array: int code_runner
 com.example.directloadtest.R$attr: int color_a
 com.example.directloadtest.R$attr: int drawable
 com.example.directloadtest.R$attr: int rv_alpha
@@ -24,6 +25,10 @@ com.example.directloadtest.R$drawable: int lock
 com.example.directloadtest.R$id: int button_next
 com.example.directloadtest.R$id: int button_prev
 com.example.directloadtest.R$id: int button_talk
+com.example.directloadtest.R$id: int code_runner_code
+com.example.directloadtest.R$id: int code_runner_output
+com.example.directloadtest.R$id: int code_runner_run
+com.example.directloadtest.R$id: int code_runner_spinner
 com.example.directloadtest.R$id: int doubleRipple
 com.example.directloadtest.R$id: int download
 com.example.directloadtest.R$id: int editText
@@ -41,6 +46,7 @@ com.example.directloadtest.R$id: int listView1
 com.example.directloadtest.R$id: int listView_talk
 com.example.directloadtest.R$id: int main_listView
 com.example.directloadtest.R$id: int main_ll
+com.example.directloadtest.R$id: int menu_develop
 com.example.directloadtest.R$id: int menu_happy
 com.example.directloadtest.R$id: int menu_main
 com.example.directloadtest.R$id: int menu_qq
@@ -92,6 +98,7 @@ com.example.directloadtest.R$id: int yiyan_button1
 com.example.directloadtest.R$id: int yiyan_editText1
 com.example.directloadtest.R$id: int yiyan_textView1
 com.example.directloadtest.R$layout: int activity_cleaner_java
+com.example.directloadtest.R$layout: int activity_code_runner_java
 com.example.directloadtest.R$layout: int activity_pao_fen_java
 com.example.directloadtest.R$layout: int activity_shaoji
 com.example.directloadtest.R$layout: int activity_todo_list
@@ -144,6 +151,8 @@ com.example.testwifi.WifiSearcher$ErrorType: com.example.testwifi.WifiSearcher$E
 com.example.testwifi.WifiSearcher$ErrorType: com.example.testwifi.WifiSearcher$ErrorType valueOf(java.lang.String)
 ml.qingsu.test.CleanerJava
 ml.qingsu.test.CleanerJava: CleanerJava()
+ml.qingsu.test.CodeRunnerJava
+ml.qingsu.test.CodeRunnerJava: CodeRunnerJava()
 ml.qingsu.test.FenbeiJava
 ml.qingsu.test.FenbeiJava: FenbeiJava()
 ml.qingsu.test.HongzhaJava

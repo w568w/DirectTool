@@ -414,6 +414,38 @@ ml.qingsu.test.AppNode -> ml.qingsu.test.a:
 ml.qingsu.test.CleanerJava -> ml.qingsu.test.CleanerJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
+ml.qingsu.test.CodeRunnerJava -> ml.qingsu.test.CodeRunnerJava:
+    android.widget.EditText output -> a
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    void getResult(java.lang.String) -> a
+    void access$000(ml.qingsu.test.CodeRunnerJava,java.lang.String) -> a
+ml.qingsu.test.CodeRunnerJava$1 -> ml.qingsu.test.b:
+    android.widget.EditText val$et -> a
+    android.widget.Spinner val$s -> b
+    ml.qingsu.test.CodeRunnerJava this$0 -> c
+    void <init>(ml.qingsu.test.CodeRunnerJava,android.widget.EditText,android.widget.Spinner) -> <init>
+    void onClick(android.view.View) -> onClick
+ml.qingsu.test.CodeRunnerJava$2 -> ml.qingsu.test.c:
+    java.lang.String val$body -> a
+    ml.qingsu.test.CodeRunnerJava this$0 -> b
+    void <init>(ml.qingsu.test.CodeRunnerJava,java.lang.String) -> <init>
+    void run() -> run
+ml.qingsu.test.CodeRunnerJava$2$1 -> ml.qingsu.test.d:
+    java.lang.String val$loca -> a
+    ml.qingsu.test.CodeRunnerJava$2 this$1 -> b
+    void <init>(ml.qingsu.test.CodeRunnerJava$2,java.lang.String) -> <init>
+    void run() -> run
+ml.qingsu.test.CodeRunnerJava$2$2 -> ml.qingsu.test.e:
+    java.lang.String val$a -> a
+    ml.qingsu.test.CodeRunnerJava$2 this$1 -> b
+    void <init>(ml.qingsu.test.CodeRunnerJava$2,java.lang.String) -> <init>
+    void run() -> run
+ml.qingsu.test.CodeRunnerJava$2$3 -> ml.qingsu.test.f:
+    java.lang.String val$code -> a
+    ml.qingsu.test.CodeRunnerJava$2 this$1 -> b
+    void <init>(ml.qingsu.test.CodeRunnerJava$2,java.lang.String) -> <init>
+    void run() -> run
 ml.qingsu.test.FenbeiJava -> ml.qingsu.test.FenbeiJava:
     int BUFFER_SIZE -> a
     android.media.AudioRecord mAudioRecord -> b
@@ -431,22 +463,23 @@ ml.qingsu.test.FenbeiJava -> ml.qingsu.test.FenbeiJava:
     void onAccuracyChanged(android.hardware.Sensor,int) -> onAccuracyChanged
     void onSensorChanged(android.hardware.SensorEvent) -> onSensorChanged
     void <clinit>() -> <clinit>
-ml.qingsu.test.FenbeiJava$1 -> ml.qingsu.test.b:
+ml.qingsu.test.FenbeiJava$1 -> ml.qingsu.test.g:
     ml.qingsu.test.FenbeiJava this$0 -> a
     void <init>(ml.qingsu.test.FenbeiJava) -> <init>
     void run() -> run
-ml.qingsu.test.FenbeiJava$1$1 -> ml.qingsu.test.c:
+ml.qingsu.test.FenbeiJava$1$1 -> ml.qingsu.test.h:
     double val$volume -> a
     ml.qingsu.test.FenbeiJava$1 this$1 -> b
     void <init>(ml.qingsu.test.FenbeiJava$1,double) -> <init>
     void run() -> run
-ml.qingsu.test.GetListData -> ml.qingsu.test.d:
+ml.qingsu.test.GetListData -> ml.qingsu.test.i:
     java.util.List getQQData() -> a
     java.util.List getSoData() -> b
-    java.util.List getSystemData() -> c
-    java.util.List getHappyData() -> d
-    java.util.List getData() -> e
-ml.qingsu.test.HeadsetReceiver -> ml.qingsu.test.e:
+    java.util.List getDevelopData() -> c
+    java.util.List getSystemData() -> d
+    java.util.List getHappyData() -> e
+    java.util.List getData() -> f
+ml.qingsu.test.HeadsetReceiver -> ml.qingsu.test.j:
     void <init>() -> <init>
     void onReceive(android.content.Context,android.content.Intent) -> onReceive
     void popit(android.content.Context,java.lang.String) -> a
@@ -456,30 +489,30 @@ ml.qingsu.test.HongzhaJava -> ml.qingsu.test.HongzhaJava:
     void onCreate(android.os.Bundle) -> onCreate
     void onDestroy() -> onDestroy
     android.webkit.WebChromeClient getwebChromeClient() -> a
-ml.qingsu.test.HongzhaJava$1 -> ml.qingsu.test.f:
+ml.qingsu.test.HongzhaJava$1 -> ml.qingsu.test.k:
     ml.qingsu.test.HongzhaJava this$0 -> a
     void <init>(ml.qingsu.test.HongzhaJava) -> <init>
     boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String) -> shouldOverrideUrlLoading
-ml.qingsu.test.HongzhaJava$2 -> ml.qingsu.test.g:
+ml.qingsu.test.HongzhaJava$2 -> ml.qingsu.test.l:
     android.widget.Button val$bt -> a
     ml.qingsu.test.HongzhaJava this$0 -> b
     void <init>(ml.qingsu.test.HongzhaJava,android.widget.Button) -> <init>
     void run() -> run
-ml.qingsu.test.HongzhaJava$2$1 -> ml.qingsu.test.h:
+ml.qingsu.test.HongzhaJava$2$1 -> ml.qingsu.test.m:
     ml.qingsu.test.HongzhaJava$2 this$1 -> a
     void <init>(ml.qingsu.test.HongzhaJava$2) -> <init>
     void run() -> run
-ml.qingsu.test.HongzhaJava$3 -> ml.qingsu.test.i:
+ml.qingsu.test.HongzhaJava$3 -> ml.qingsu.test.n:
     android.widget.EditText val$et -> a
     android.webkit.WebView val$wv -> b
     ml.qingsu.test.HongzhaJava this$0 -> c
     void <init>(ml.qingsu.test.HongzhaJava,android.widget.EditText,android.webkit.WebView) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.HongzhaJava$4 -> ml.qingsu.test.j:
+ml.qingsu.test.HongzhaJava$4 -> ml.qingsu.test.o:
     ml.qingsu.test.HongzhaJava this$0 -> a
     void <init>(ml.qingsu.test.HongzhaJava) -> <init>
     void onProgressChanged(android.webkit.WebView,int) -> onProgressChanged
-ml.qingsu.test.ImageService -> ml.qingsu.test.k:
+ml.qingsu.test.ImageService -> ml.qingsu.test.p:
     android.graphics.Bitmap getImageBitmap(java.lang.String) -> a
 ml.qingsu.test.InstallAccessibilityService -> ml.qingsu.test.InstallAccessibilityService:
     java.util.Map handledMap -> a
@@ -494,25 +527,25 @@ ml.qingsu.test.ListJava -> ml.qingsu.test.ListJava:
     void onCreate(android.os.Bundle) -> onCreate
     ml.qingsu.test.Tools$FindAPPCallBack getnext() -> a
     ml.qingsu.test.Tools$FindAPPCallBack access$000(ml.qingsu.test.ListJava) -> a
-ml.qingsu.test.ListJava$1 -> ml.qingsu.test.l:
+ml.qingsu.test.ListJava$1 -> ml.qingsu.test.q:
     java.lang.String val$type -> a
     ml.qingsu.test.ListJava this$0 -> b
     void <init>(ml.qingsu.test.ListJava,java.lang.String) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.ListJava$2 -> ml.qingsu.test.m:
+ml.qingsu.test.ListJava$2 -> ml.qingsu.test.r:
     java.lang.String val$type -> a
     ml.qingsu.test.ListJava this$0 -> b
     void <init>(ml.qingsu.test.ListJava,java.lang.String) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.ListJava$3 -> ml.qingsu.test.n:
+ml.qingsu.test.ListJava$3 -> ml.qingsu.test.s:
     ml.qingsu.test.ListJava this$0 -> a
     void <init>(ml.qingsu.test.ListJava) -> <init>
     void finished(java.util.Vector) -> a
-ml.qingsu.test.ListJava$3$1 -> ml.qingsu.test.o:
+ml.qingsu.test.ListJava$3$1 -> ml.qingsu.test.t:
     ml.qingsu.test.ListJava$3 this$1 -> a
     void <init>(ml.qingsu.test.ListJava$3) -> <init>
     void run() -> run
-ml.qingsu.test.ListJava$3$2 -> ml.qingsu.test.p:
+ml.qingsu.test.ListJava$3$2 -> ml.qingsu.test.u:
     java.util.ArrayList val$itemlist -> a
     ml.qingsu.test.ListJava$3 this$1 -> b
     void <init>(ml.qingsu.test.ListJava$3,java.util.ArrayList) -> <init>
@@ -525,7 +558,7 @@ ml.qingsu.test.LockReceiver -> ml.qingsu.test.LockReceiver:
     void onDisabled(android.content.Context,android.content.Intent) -> onDisabled
     void onEnabled(android.content.Context,android.content.Intent) -> onEnabled
     void onReceive(android.content.Context,android.content.Intent) -> onReceive
-ml.qingsu.test.Main_Adapter -> ml.qingsu.test.q:
+ml.qingsu.test.Main_Adapter -> ml.qingsu.test.v:
     java.util.List al -> a
     android.app.Activity con -> b
     void <init>(android.app.Activity,java.util.List) -> <init>
@@ -584,252 +617,252 @@ ml.qingsu.test.Mainjava -> ml.qingsu.test.Mainjava:
     void access$1400(ml.qingsu.test.Mainjava) -> o
     void access$1500(ml.qingsu.test.Mainjava) -> p
     void access$1600(ml.qingsu.test.Mainjava) -> q
-ml.qingsu.test.Mainjava$1 -> ml.qingsu.test.r:
+ml.qingsu.test.Mainjava$1 -> ml.qingsu.test.w:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$1$1 -> ml.qingsu.test.s:
+ml.qingsu.test.Mainjava$1$1 -> ml.qingsu.test.x:
     java.lang.String val$text_name -> a
     ml.qingsu.test.Mainjava$1 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$1,java.lang.String) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$10 -> ml.qingsu.test.t:
+ml.qingsu.test.Mainjava$10 -> ml.qingsu.test.y:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$11 -> ml.qingsu.test.u:
+ml.qingsu.test.Mainjava$11 -> ml.qingsu.test.z:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$12 -> ml.qingsu.test.v:
+ml.qingsu.test.Mainjava$12 -> ml.qingsu.test.aa:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$13 -> ml.qingsu.test.w:
+ml.qingsu.test.Mainjava$13 -> ml.qingsu.test.ab:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$13$1 -> ml.qingsu.test.x:
+ml.qingsu.test.Mainjava$13$1 -> ml.qingsu.test.ac:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$13 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$13,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$13$1$1 -> ml.qingsu.test.y:
+ml.qingsu.test.Mainjava$13$1$1 -> ml.qingsu.test.ad:
     ml.qingsu.test.Mainjava$13$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$13$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$13$1$2 -> ml.qingsu.test.z:
+ml.qingsu.test.Mainjava$13$1$2 -> ml.qingsu.test.ae:
     ml.qingsu.test.Mainjava$13$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$13$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$13$1$3 -> ml.qingsu.test.aa:
+ml.qingsu.test.Mainjava$13$1$3 -> ml.qingsu.test.af:
     ml.qingsu.test.Mainjava$13$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$13$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$14 -> ml.qingsu.test.ab:
+ml.qingsu.test.Mainjava$14 -> ml.qingsu.test.ag:
     android.widget.EditText val$v -> a
     java.lang.String val$result -> b
     ml.qingsu.test.Mainjava this$0 -> c
     void <init>(ml.qingsu.test.Mainjava,android.widget.EditText,java.lang.String) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$15 -> ml.qingsu.test.ac:
+ml.qingsu.test.Mainjava$15 -> ml.qingsu.test.ah:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$16 -> ml.qingsu.test.ad:
+ml.qingsu.test.Mainjava$16 -> ml.qingsu.test.ai:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$16$1 -> ml.qingsu.test.ae:
+ml.qingsu.test.Mainjava$16$1 -> ml.qingsu.test.aj:
     java.lang.String val$finalText -> a
     ml.qingsu.test.Mainjava$16 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$16,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$16$1$1 -> ml.qingsu.test.af:
+ml.qingsu.test.Mainjava$16$1$1 -> ml.qingsu.test.ak:
     android.graphics.Bitmap val$b -> a
     java.lang.String val$title -> b
     ml.qingsu.test.Mainjava$16$1 this$2 -> c
     void <init>(ml.qingsu.test.Mainjava$16$1,android.graphics.Bitmap,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$16$1$1$1 -> ml.qingsu.test.ag:
+ml.qingsu.test.Mainjava$16$1$1$1 -> ml.qingsu.test.al:
     ml.qingsu.test.Mainjava$16$1$1 this$3 -> a
     void <init>(ml.qingsu.test.Mainjava$16$1$1) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$16$1$1$1$1 -> ml.qingsu.test.ah:
+ml.qingsu.test.Mainjava$16$1$1$1$1 -> ml.qingsu.test.am:
     java.lang.String val$file -> a
     ml.qingsu.test.Mainjava$16$1$1$1 this$4 -> b
     void <init>(ml.qingsu.test.Mainjava$16$1$1$1,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$16$1$1$1$1$1 -> ml.qingsu.test.ai:
+ml.qingsu.test.Mainjava$16$1$1$1$1$1 -> ml.qingsu.test.an:
     ml.qingsu.test.Mainjava$16$1$1$1$1 this$5 -> a
     void <init>(ml.qingsu.test.Mainjava$16$1$1$1$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$16$1$1$2 -> ml.qingsu.test.aj:
+ml.qingsu.test.Mainjava$16$1$1$2 -> ml.qingsu.test.ao:
     android.app.AlertDialog$Builder val$adb -> a
     ml.qingsu.test.Mainjava$16$1$1 this$3 -> b
     void <init>(ml.qingsu.test.Mainjava$16$1$1,android.app.AlertDialog$Builder) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$16$1$1$3 -> ml.qingsu.test.ak:
+ml.qingsu.test.Mainjava$16$1$1$3 -> ml.qingsu.test.ap:
     android.app.AlertDialog$Builder val$adb -> a
     ml.qingsu.test.Mainjava$16$1$1 this$3 -> b
     void <init>(ml.qingsu.test.Mainjava$16$1$1,android.app.AlertDialog$Builder) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$16$1$1$3$1 -> ml.qingsu.test.al:
+ml.qingsu.test.Mainjava$16$1$1$3$1 -> ml.qingsu.test.aq:
     ml.qingsu.test.Mainjava$16$1$1$3 this$4 -> a
     void <init>(ml.qingsu.test.Mainjava$16$1$1$3) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$17 -> ml.qingsu.test.am:
+ml.qingsu.test.Mainjava$17 -> ml.qingsu.test.ar:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$17$1 -> ml.qingsu.test.an:
+ml.qingsu.test.Mainjava$17$1 -> ml.qingsu.test.as:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$17 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$17,java.lang.String) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$17$1$1 -> ml.qingsu.test.ao:
+ml.qingsu.test.Mainjava$17$1$1 -> ml.qingsu.test.at:
     java.lang.String val$text1 -> a
     ml.qingsu.test.Mainjava$17$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$17$1,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$17$1$1$1 -> ml.qingsu.test.ap:
+ml.qingsu.test.Mainjava$17$1$1$1 -> ml.qingsu.test.au:
     ml.qingsu.test.Mainjava$17$1$1 this$3 -> a
     void <init>(ml.qingsu.test.Mainjava$17$1$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$18 -> ml.qingsu.test.aq:
+ml.qingsu.test.Mainjava$18 -> ml.qingsu.test.av:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$19 -> ml.qingsu.test.ar:
+ml.qingsu.test.Mainjava$19 -> ml.qingsu.test.aw:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Mainjava$2 -> ml.qingsu.test.as:
+ml.qingsu.test.Mainjava$2 -> ml.qingsu.test.ax:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$20 -> ml.qingsu.test.at:
+ml.qingsu.test.Mainjava$20 -> ml.qingsu.test.ay:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$20$1 -> ml.qingsu.test.au:
+ml.qingsu.test.Mainjava$20$1 -> ml.qingsu.test.az:
     ml.qingsu.test.Mainjava$20 this$1 -> a
     void <init>(ml.qingsu.test.Mainjava$20) -> <init>
     void onGet(java.lang.String) -> a
-ml.qingsu.test.Mainjava$21 -> ml.qingsu.test.av:
+ml.qingsu.test.Mainjava$21 -> ml.qingsu.test.ba:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
-ml.qingsu.test.Mainjava$3 -> ml.qingsu.test.aw:
+ml.qingsu.test.Mainjava$3 -> ml.qingsu.test.bb:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
     ml.qingsu.test.Tools$LaquanquanCallBack la_quan_quan_OnCallBack() -> a
-ml.qingsu.test.Mainjava$3$1 -> ml.qingsu.test.ax:
+ml.qingsu.test.Mainjava$3$1 -> ml.qingsu.test.bc:
     ml.qingsu.test.Mainjava$3 this$1 -> a
     void <init>(ml.qingsu.test.Mainjava$3) -> <init>
     void finished(boolean) -> a
-ml.qingsu.test.Mainjava$3$1$1 -> ml.qingsu.test.ay:
+ml.qingsu.test.Mainjava$3$1$1 -> ml.qingsu.test.bd:
     boolean val$laquanquan_finished -> a
     ml.qingsu.test.Mainjava$3$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$3$1,boolean) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$4 -> ml.qingsu.test.az:
+ml.qingsu.test.Mainjava$4 -> ml.qingsu.test.be:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$4$1 -> ml.qingsu.test.ba:
+ml.qingsu.test.Mainjava$4$1 -> ml.qingsu.test.bf:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$4 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$4,java.lang.String) -> <init>
     void finished(java.util.Vector) -> a
-ml.qingsu.test.Mainjava$4$1$1 -> ml.qingsu.test.bb:
+ml.qingsu.test.Mainjava$4$1$1 -> ml.qingsu.test.bg:
     ml.qingsu.test.Mainjava$4$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$4$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$4$1$2 -> ml.qingsu.test.bc:
+ml.qingsu.test.Mainjava$4$1$2 -> ml.qingsu.test.bh:
     java.util.Iterator val$iter -> a
     ml.qingsu.test.Mainjava$4$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$4$1,java.util.Iterator) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$5 -> ml.qingsu.test.bd:
+ml.qingsu.test.Mainjava$5 -> ml.qingsu.test.bi:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$5$1 -> ml.qingsu.test.be:
+ml.qingsu.test.Mainjava$5$1 -> ml.qingsu.test.bj:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$5 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$5,java.lang.String) -> <init>
     void finished(java.util.Vector) -> a
-ml.qingsu.test.Mainjava$5$1$1 -> ml.qingsu.test.bf:
+ml.qingsu.test.Mainjava$5$1$1 -> ml.qingsu.test.bk:
     ml.qingsu.test.Mainjava$5$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$5$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$5$1$2 -> ml.qingsu.test.bg:
+ml.qingsu.test.Mainjava$5$1$2 -> ml.qingsu.test.bl:
     java.util.Iterator val$iter -> a
     ml.qingsu.test.Mainjava$5$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$5$1,java.util.Iterator) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$6 -> ml.qingsu.test.bh:
+ml.qingsu.test.Mainjava$6 -> ml.qingsu.test.bm:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$6$1 -> ml.qingsu.test.bi:
+ml.qingsu.test.Mainjava$6$1 -> ml.qingsu.test.bn:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$6 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$6,java.lang.String) -> <init>
     void finished(java.util.Vector) -> a
-ml.qingsu.test.Mainjava$6$1$1 -> ml.qingsu.test.bj:
+ml.qingsu.test.Mainjava$6$1$1 -> ml.qingsu.test.bo:
     ml.qingsu.test.Mainjava$6$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$6$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$6$1$2 -> ml.qingsu.test.bk:
+ml.qingsu.test.Mainjava$6$1$2 -> ml.qingsu.test.bp:
     java.util.ArrayList val$itemlist -> a
     ml.qingsu.test.Mainjava$6$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$6$1,java.util.ArrayList) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$7 -> ml.qingsu.test.bl:
+ml.qingsu.test.Mainjava$7 -> ml.qingsu.test.bq:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$7$1 -> ml.qingsu.test.bm:
+ml.qingsu.test.Mainjava$7$1 -> ml.qingsu.test.br:
     java.lang.String val$text -> a
     ml.qingsu.test.Mainjava$7 this$1 -> b
     void <init>(ml.qingsu.test.Mainjava$7,java.lang.String) -> <init>
     void finished(java.util.Vector) -> a
-ml.qingsu.test.Mainjava$7$1$1 -> ml.qingsu.test.bn:
+ml.qingsu.test.Mainjava$7$1$1 -> ml.qingsu.test.bs:
     ml.qingsu.test.Mainjava$7$1 this$2 -> a
     void <init>(ml.qingsu.test.Mainjava$7$1) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$7$1$2 -> ml.qingsu.test.bo:
+ml.qingsu.test.Mainjava$7$1$2 -> ml.qingsu.test.bt:
     java.util.ArrayList val$itemlist -> a
     ml.qingsu.test.Mainjava$7$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$7$1,java.util.ArrayList) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$8 -> ml.qingsu.test.bp:
+ml.qingsu.test.Mainjava$8 -> ml.qingsu.test.bu:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$8$1 -> ml.qingsu.test.bq:
+ml.qingsu.test.Mainjava$8$1 -> ml.qingsu.test.bv:
     ml.qingsu.test.Mainjava$8 this$1 -> a
     void <init>(ml.qingsu.test.Mainjava$8) -> <init>
     void onSuccess(java.lang.String) -> a
     void onError() -> a
-ml.qingsu.test.Mainjava$8$1$1 -> ml.qingsu.test.br:
+ml.qingsu.test.Mainjava$8$1$1 -> ml.qingsu.test.bw:
     java.lang.String val$picurl -> a
     ml.qingsu.test.Mainjava$8$1 this$2 -> b
     void <init>(ml.qingsu.test.Mainjava$8$1,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$8$1$1$1 -> ml.qingsu.test.bs:
+ml.qingsu.test.Mainjava$8$1$1$1 -> ml.qingsu.test.bx:
     android.graphics.Bitmap val$meinv -> a
     ml.qingsu.test.Mainjava$8$1$1 this$3 -> b
     void <init>(ml.qingsu.test.Mainjava$8$1$1,android.graphics.Bitmap) -> <init>
     void run() -> run
-ml.qingsu.test.Mainjava$9 -> ml.qingsu.test.bt:
+ml.qingsu.test.Mainjava$9 -> ml.qingsu.test.by:
     ml.qingsu.test.Mainjava this$0 -> a
     void <init>(ml.qingsu.test.Mainjava) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Mainjava$SuShuCalcTask -> ml.qingsu.test.bu:
+ml.qingsu.test.Mainjava$SuShuCalcTask -> ml.qingsu.test.bz:
     android.app.ProgressDialog pd -> a
     long num -> b
     ml.qingsu.test.Mainjava this$0 -> c
@@ -841,7 +874,7 @@ ml.qingsu.test.Mainjava$SuShuCalcTask -> ml.qingsu.test.bu:
     void onProgressUpdate(java.lang.Object[]) -> onProgressUpdate
     void onPostExecute(java.lang.Object) -> onPostExecute
     java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
-ml.qingsu.test.Mainjava$SuShuCalcTask$1 -> ml.qingsu.test.bv:
+ml.qingsu.test.Mainjava$SuShuCalcTask$1 -> ml.qingsu.test.ca:
     ml.qingsu.test.Mainjava$SuShuCalcTask this$1 -> a
     void <init>(ml.qingsu.test.Mainjava$SuShuCalcTask) -> <init>
     void onCancel(android.content.DialogInterface) -> onCancel
@@ -850,15 +883,15 @@ ml.qingsu.test.MusicJava -> ml.qingsu.test.MusicJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     void Get() -> a
-ml.qingsu.test.MusicJava$1 -> ml.qingsu.test.bw:
+ml.qingsu.test.MusicJava$1 -> ml.qingsu.test.cb:
     ml.qingsu.test.MusicJava this$0 -> a
     void <init>(ml.qingsu.test.MusicJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.MusicJava$2 -> ml.qingsu.test.bx:
+ml.qingsu.test.MusicJava$2 -> ml.qingsu.test.cc:
     ml.qingsu.test.MusicJava this$0 -> a
     void <init>(ml.qingsu.test.MusicJava) -> <init>
     void finished(java.util.List) -> a
-ml.qingsu.test.MusicNode -> ml.qingsu.test.by:
+ml.qingsu.test.MusicNode -> ml.qingsu.test.cd:
     java.lang.String imei -> c
     int good -> d
     java.lang.String des -> e
@@ -875,7 +908,7 @@ ml.qingsu.test.MusicNode -> ml.qingsu.test.by:
     java.lang.String getName() -> e
     java.lang.String getHash() -> f
     void setHash(java.lang.String) -> a
-ml.qingsu.test.Music_Adapter -> ml.qingsu.test.bz:
+ml.qingsu.test.Music_Adapter -> ml.qingsu.test.ce:
     java.util.List al -> a
     android.view.LayoutInflater li -> b
     android.app.Activity con -> c
@@ -885,15 +918,15 @@ ml.qingsu.test.Music_Adapter -> ml.qingsu.test.bz:
     long getItemId(int) -> getItemId
     android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
     android.app.Activity access$000(ml.qingsu.test.Music_Adapter) -> a
-ml.qingsu.test.Music_Adapter$1 -> ml.qingsu.test.ca:
+ml.qingsu.test.Music_Adapter$1 -> ml.qingsu.test.cf:
     ml.qingsu.test.Music_Adapter this$0 -> a
     void <init>(ml.qingsu.test.Music_Adapter) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.Music_Adapter$2 -> ml.qingsu.test.cb:
+ml.qingsu.test.Music_Adapter$2 -> ml.qingsu.test.cg:
     ml.qingsu.test.Music_Adapter this$0 -> a
     void <init>(ml.qingsu.test.Music_Adapter) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.Music_Adapter$2$1 -> ml.qingsu.test.cc:
+ml.qingsu.test.Music_Adapter$2$1 -> ml.qingsu.test.ch:
     java.lang.String val$id -> a
     com.ericsoft.bmob.bson.BSONObject val$bo -> b
     android.widget.Button val$bt -> c
@@ -901,20 +934,20 @@ ml.qingsu.test.Music_Adapter$2$1 -> ml.qingsu.test.cc:
     ml.qingsu.test.Music_Adapter$2 this$1 -> e
     void <init>(ml.qingsu.test.Music_Adapter$2,java.lang.String,com.ericsoft.bmob.bson.BSONObject,android.widget.Button,int) -> <init>
     void run() -> run
-ml.qingsu.test.Music_Adapter$2$1$1 -> ml.qingsu.test.cd:
+ml.qingsu.test.Music_Adapter$2$1$1 -> ml.qingsu.test.ci:
     ml.qingsu.test.Music_Adapter$2$1 this$2 -> a
     void <init>(ml.qingsu.test.Music_Adapter$2$1) -> <init>
     void run() -> run
 ml.qingsu.test.Music_addJava -> ml.qingsu.test.Music_addJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.Music_addJava$1 -> ml.qingsu.test.ce:
+ml.qingsu.test.Music_addJava$1 -> ml.qingsu.test.cj:
     java.lang.String val$name -> a
     java.lang.String val$hash -> b
     ml.qingsu.test.Music_addJava this$0 -> c
     void <init>(ml.qingsu.test.Music_addJava,java.lang.String,java.lang.String) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.Music_look_for_Adapter -> ml.qingsu.test.cf:
+ml.qingsu.test.Music_look_for_Adapter -> ml.qingsu.test.ck:
     org.json.JSONArray ja -> a
     android.view.LayoutInflater li -> b
     void <init>(org.json.JSONArray,android.content.Context) -> <init>
@@ -927,29 +960,29 @@ ml.qingsu.test.MusiclookforJava -> ml.qingsu.test.MusiclookforJava:
     void onCreate(android.os.Bundle) -> onCreate
     void error() -> a
     void access$000(ml.qingsu.test.MusiclookforJava) -> a
-ml.qingsu.test.MusiclookforJava$1 -> ml.qingsu.test.cg:
+ml.qingsu.test.MusiclookforJava$1 -> ml.qingsu.test.cl:
     ml.qingsu.test.MusiclookforJava this$0 -> a
     void <init>(ml.qingsu.test.MusiclookforJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.MusiclookforJava$1$1 -> ml.qingsu.test.ch:
+ml.qingsu.test.MusiclookforJava$1$1 -> ml.qingsu.test.cm:
     android.widget.ListView val$lv -> a
     ml.qingsu.test.MusiclookforJava$1 this$1 -> b
     void <init>(ml.qingsu.test.MusiclookforJava$1,android.widget.ListView) -> <init>
     void onSuccess(java.lang.String) -> a
     void onError() -> a
-ml.qingsu.test.MusiclookforJava$2 -> ml.qingsu.test.ci:
+ml.qingsu.test.MusiclookforJava$2 -> ml.qingsu.test.cn:
     ml.qingsu.test.MusiclookforJava this$0 -> a
     void <init>(ml.qingsu.test.MusiclookforJava) -> <init>
     void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
 ml.qingsu.test.PaoFenJava -> ml.qingsu.test.PaoFenJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.PaoFenJava$1 -> ml.qingsu.test.cj:
+ml.qingsu.test.PaoFenJava$1 -> ml.qingsu.test.co:
     android.content.SharedPreferences val$sp -> a
     ml.qingsu.test.PaoFenJava this$0 -> b
     void <init>(ml.qingsu.test.PaoFenJava,android.content.SharedPreferences) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.PaoFenJava$1$1 -> ml.qingsu.test.ck:
+ml.qingsu.test.PaoFenJava$1$1 -> ml.qingsu.test.cp:
     ml.qingsu.test.PaoFenJava$1 this$1 -> a
     void <init>(ml.qingsu.test.PaoFenJava$1) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
@@ -959,7 +992,7 @@ ml.qingsu.test.Paofen_TASK_Java -> ml.qingsu.test.Paofen_TASK_Java:
 ml.qingsu.test.QQZiShuJava -> ml.qingsu.test.QQZiShuJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.QQZiShuJava$1 -> ml.qingsu.test.cl:
+ml.qingsu.test.QQZiShuJava$1 -> ml.qingsu.test.cq:
     android.widget.EditText val$et -> a
     ml.qingsu.test.QQZiShuJava this$0 -> b
     void <init>(ml.qingsu.test.QQZiShuJava,android.widget.EditText) -> <init>
@@ -968,14 +1001,14 @@ ml.qingsu.test.QRcodeJava -> ml.qingsu.test.QRcodeJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     void onActivityResult(int,int,android.content.Intent) -> onActivityResult
-ml.qingsu.test.QRcodeJava$1 -> ml.qingsu.test.cm:
+ml.qingsu.test.QRcodeJava$1 -> ml.qingsu.test.cr:
     android.widget.EditText val$et -> a
     android.widget.SeekBar val$sb -> b
     android.widget.ImageView val$iv -> c
     ml.qingsu.test.QRcodeJava this$0 -> d
     void <init>(ml.qingsu.test.QRcodeJava,android.widget.EditText,android.widget.SeekBar,android.widget.ImageView) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.QRcodeJava$2 -> ml.qingsu.test.cn:
+ml.qingsu.test.QRcodeJava$2 -> ml.qingsu.test.cs:
     ml.qingsu.test.QRcodeJava this$0 -> a
     void <init>(ml.qingsu.test.QRcodeJava) -> <init>
     boolean onLongClick(android.view.View) -> onLongClick
@@ -985,55 +1018,55 @@ ml.qingsu.test.SettingsJava -> ml.qingsu.test.SettingsJava:
     void onCreate(android.os.Bundle) -> onCreate
     void refresh(android.widget.Button,android.content.SharedPreferences) -> a
     void access$000(ml.qingsu.test.SettingsJava,android.widget.Button,android.content.SharedPreferences) -> a
-ml.qingsu.test.SettingsJava$1 -> ml.qingsu.test.co:
+ml.qingsu.test.SettingsJava$1 -> ml.qingsu.test.ct:
     android.content.SharedPreferences val$sp -> a
     ml.qingsu.test.SettingsJava this$0 -> b
     void <init>(ml.qingsu.test.SettingsJava,android.content.SharedPreferences) -> <init>
     void onCheckedChanged(android.widget.CompoundButton,boolean) -> onCheckedChanged
-ml.qingsu.test.SettingsJava$2 -> ml.qingsu.test.cp:
+ml.qingsu.test.SettingsJava$2 -> ml.qingsu.test.cu:
     android.content.SharedPreferences val$sp -> a
     android.widget.Button val$b -> b
     ml.qingsu.test.SettingsJava this$0 -> c
     void <init>(ml.qingsu.test.SettingsJava,android.content.SharedPreferences,android.widget.Button) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$2$1 -> ml.qingsu.test.cq:
+ml.qingsu.test.SettingsJava$2$1 -> ml.qingsu.test.cv:
     ml.qingsu.test.SettingsJava$2 this$1 -> a
     void <init>(ml.qingsu.test.SettingsJava$2) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.SettingsJava$2$1$1 -> ml.qingsu.test.cr:
+ml.qingsu.test.SettingsJava$2$1$1 -> ml.qingsu.test.cw:
     ml.qingsu.test.SettingsJava$2$1 this$2 -> a
     void <init>(ml.qingsu.test.SettingsJava$2$1) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.SettingsJava$2$1$2 -> ml.qingsu.test.cs:
+ml.qingsu.test.SettingsJava$2$1$2 -> ml.qingsu.test.cx:
     ml.qingsu.test.SettingsJava$2$1 this$2 -> a
     void <init>(ml.qingsu.test.SettingsJava$2$1) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.SettingsJava$3 -> ml.qingsu.test.ct:
+ml.qingsu.test.SettingsJava$3 -> ml.qingsu.test.cy:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$3$1 -> ml.qingsu.test.cu:
+ml.qingsu.test.SettingsJava$3$1 -> ml.qingsu.test.cz:
     android.content.SharedPreferences val$sp -> a
     ml.qingsu.test.SettingsJava$3 this$1 -> b
     void <init>(ml.qingsu.test.SettingsJava$3,android.content.SharedPreferences) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.SettingsJava$4 -> ml.qingsu.test.cv:
+ml.qingsu.test.SettingsJava$4 -> ml.qingsu.test.da:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$5 -> ml.qingsu.test.cw:
+ml.qingsu.test.SettingsJava$5 -> ml.qingsu.test.db:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$6 -> ml.qingsu.test.cx:
+ml.qingsu.test.SettingsJava$6 -> ml.qingsu.test.dc:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$7 -> ml.qingsu.test.cy:
+ml.qingsu.test.SettingsJava$7 -> ml.qingsu.test.dd:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.SettingsJava$8 -> ml.qingsu.test.cz:
+ml.qingsu.test.SettingsJava$8 -> ml.qingsu.test.de:
     ml.qingsu.test.SettingsJava this$0 -> a
     void <init>(ml.qingsu.test.SettingsJava) -> <init>
     void onClick(android.view.View) -> onClick
@@ -1041,31 +1074,31 @@ ml.qingsu.test.ShaojiJava -> ml.qingsu.test.ShaojiJava:
     boolean Running -> a
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.ShaojiJava$1 -> ml.qingsu.test.da:
+ml.qingsu.test.ShaojiJava$1 -> ml.qingsu.test.df:
     android.widget.EditText val$et -> a
     ml.qingsu.test.ShaojiJava this$0 -> b
     void <init>(ml.qingsu.test.ShaojiJava,android.widget.EditText) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.ShaojiJava$2 -> ml.qingsu.test.db:
+ml.qingsu.test.ShaojiJava$2 -> ml.qingsu.test.dg:
     ml.qingsu.test.ShaojiJava this$0 -> a
     void <init>(ml.qingsu.test.ShaojiJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.ShaojiJava$3 -> ml.qingsu.test.dc:
+ml.qingsu.test.ShaojiJava$3 -> ml.qingsu.test.dh:
     ml.qingsu.test.ShaojiJava this$0 -> a
     void <init>(ml.qingsu.test.ShaojiJava) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.ShaojiJava$FUCKThread -> ml.qingsu.test.dd:
+ml.qingsu.test.ShaojiJava$FUCKThread -> ml.qingsu.test.di:
     ml.qingsu.test.ShaojiJava this$0 -> a
     void <init>(ml.qingsu.test.ShaojiJava) -> <init>
     void run() -> run
 ml.qingsu.test.ShutdownDialogViewJava -> ml.qingsu.test.ShutdownDialogViewJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.ShutdownDialogViewJava$1 -> ml.qingsu.test.de:
+ml.qingsu.test.ShutdownDialogViewJava$1 -> ml.qingsu.test.dj:
     ml.qingsu.test.ShutdownDialogViewJava this$0 -> a
     void <init>(ml.qingsu.test.ShutdownDialogViewJava) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.So_Adapter -> ml.qingsu.test.df:
+ml.qingsu.test.So_Adapter -> ml.qingsu.test.dk:
     android.view.LayoutInflater li -> a
     java.util.ArrayList al -> b
     android.content.Context con -> c
@@ -1075,7 +1108,7 @@ ml.qingsu.test.So_Adapter -> ml.qingsu.test.df:
     long getItemId(int) -> getItemId
     android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
     android.content.Context access$000(ml.qingsu.test.So_Adapter) -> a
-ml.qingsu.test.So_Adapter$1 -> ml.qingsu.test.dg:
+ml.qingsu.test.So_Adapter$1 -> ml.qingsu.test.dl:
     ml.qingsu.test.So_Adapter this$0 -> a
     void <init>(ml.qingsu.test.So_Adapter) -> <init>
     void onClick(android.view.View) -> onClick
@@ -1084,19 +1117,19 @@ ml.qingsu.test.TalkJava -> ml.qingsu.test.TalkJava:
     void onCreate(android.os.Bundle) -> onCreate
     void Talk(java.lang.String,android.widget.ArrayAdapter) -> a
     void access$000(ml.qingsu.test.TalkJava,java.lang.String,android.widget.ArrayAdapter) -> a
-ml.qingsu.test.TalkJava$1 -> ml.qingsu.test.dh:
+ml.qingsu.test.TalkJava$1 -> ml.qingsu.test.dm:
     android.widget.EditText val$et -> a
     android.widget.ArrayAdapter val$aa -> b
     ml.qingsu.test.TalkJava this$0 -> c
     void <init>(ml.qingsu.test.TalkJava,android.widget.EditText,android.widget.ArrayAdapter) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.TalkJava$2 -> ml.qingsu.test.di:
+ml.qingsu.test.TalkJava$2 -> ml.qingsu.test.dn:
     java.lang.String val$text -> a
     android.widget.ArrayAdapter val$aab -> b
     ml.qingsu.test.TalkJava this$0 -> c
     void <init>(ml.qingsu.test.TalkJava,java.lang.String,android.widget.ArrayAdapter) -> <init>
     void run() -> run
-ml.qingsu.test.TalkJava$2$1 -> ml.qingsu.test.dj:
+ml.qingsu.test.TalkJava$2$1 -> ml.qingsu.test.do:
     java.lang.String val$answer -> a
     ml.qingsu.test.TalkJava$2 this$1 -> b
     void <init>(ml.qingsu.test.TalkJava$2,java.lang.String) -> <init>
@@ -1105,31 +1138,31 @@ ml.qingsu.test.TodoListJava -> ml.qingsu.test.TodoListJava:
     void <init>() -> <init>
     boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.TodoListJava$1 -> ml.qingsu.test.dk:
+ml.qingsu.test.TodoListJava$1 -> ml.qingsu.test.dp:
     ml.qingsu.test.TodoListJava this$0 -> a
     void <init>(ml.qingsu.test.TodoListJava) -> <init>
     boolean onMenuItemClick(android.view.MenuItem) -> onMenuItemClick
-ml.qingsu.test.TodoListJava$1$1 -> ml.qingsu.test.dl:
+ml.qingsu.test.TodoListJava$1$1 -> ml.qingsu.test.dq:
     ml.qingsu.test.TodoListJava$1 this$1 -> a
     void <init>(ml.qingsu.test.TodoListJava$1) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.TodoListJava$2 -> ml.qingsu.test.dm:
+ml.qingsu.test.TodoListJava$2 -> ml.qingsu.test.dr:
     android.widget.ListView val$lv -> a
     ml.qingsu.test.TodoListJava this$0 -> b
     void <init>(ml.qingsu.test.TodoListJava,android.widget.ListView) -> <init>
     void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
-ml.qingsu.test.TodoListJava$3 -> ml.qingsu.test.dn:
+ml.qingsu.test.TodoListJava$3 -> ml.qingsu.test.ds:
     android.widget.ListView val$lv -> a
     ml.qingsu.test.TodoListJava this$0 -> b
     void <init>(ml.qingsu.test.TodoListJava,android.widget.ListView) -> <init>
     boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long) -> onItemLongClick
-ml.qingsu.test.TodoListJava$3$1 -> ml.qingsu.test.do:
+ml.qingsu.test.TodoListJava$3$1 -> ml.qingsu.test.dt:
     ml.qingsu.test.TodoListJava$TodoListAdapter val$a -> a
     int val$i -> b
     ml.qingsu.test.TodoListJava$3 this$1 -> c
     void <init>(ml.qingsu.test.TodoListJava$3,ml.qingsu.test.TodoListJava$TodoListAdapter,int) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.TodoListJava$TodoListAdapter -> ml.qingsu.test.dp:
+ml.qingsu.test.TodoListJava$TodoListAdapter -> ml.qingsu.test.du:
     android.content.SharedPreferences sp -> a
     ml.qingsu.test.TodoListJava this$0 -> b
     void <init>(ml.qingsu.test.TodoListJava) -> <init>
@@ -1140,7 +1173,7 @@ ml.qingsu.test.TodoListJava$TodoListAdapter -> ml.qingsu.test.dp:
     void delete(int) -> b
     long getItemId(int) -> getItemId
     android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
-ml.qingsu.test.Tools -> ml.qingsu.test.dq:
+ml.qingsu.test.Tools -> ml.qingsu.test.dv:
     void DelLog(android.app.Activity) -> a
     java.util.List GetWiFiKey(android.content.Context) -> a
     void Booru(android.app.Activity) -> b
@@ -1165,96 +1198,96 @@ ml.qingsu.test.Tools -> ml.qingsu.test.dq:
     java.util.Vector access$000(java.lang.String) -> b
     java.util.Vector access$100(java.lang.String) -> c
     java.util.Vector access$200(java.lang.String) -> d
-ml.qingsu.test.Tools$1 -> ml.qingsu.test.dr:
+ml.qingsu.test.Tools$1 -> ml.qingsu.test.dw:
     android.app.Activity val$con -> a
     void <init>(android.app.Activity) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$1$1 -> ml.qingsu.test.ds:
+ml.qingsu.test.Tools$1$1 -> ml.qingsu.test.dx:
     ml.qingsu.test.Tools$1 this$0 -> a
     void <init>(ml.qingsu.test.Tools$1) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$1$2 -> ml.qingsu.test.dt:
+ml.qingsu.test.Tools$1$2 -> ml.qingsu.test.dy:
     ml.qingsu.test.Tools$1 this$0 -> a
     void <init>(ml.qingsu.test.Tools$1) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$1$3 -> ml.qingsu.test.du:
+ml.qingsu.test.Tools$1$3 -> ml.qingsu.test.dz:
     android.graphics.Bitmap val$bit -> a
     ml.qingsu.test.Tools$1 this$0 -> b
     void <init>(ml.qingsu.test.Tools$1,android.graphics.Bitmap) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$10 -> ml.qingsu.test.dv:
+ml.qingsu.test.Tools$10 -> ml.qingsu.test.ea:
     android.app.Activity val$con -> a
     ml.qingsu.test.Tools$FindMusicCallBack val$f -> b
     void <init>(android.app.Activity,ml.qingsu.test.Tools$FindMusicCallBack) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$10$1 -> ml.qingsu.test.dw:
+ml.qingsu.test.Tools$10$1 -> ml.qingsu.test.eb:
     ml.qingsu.test.Tools$10 this$0 -> a
     void <init>(ml.qingsu.test.Tools$10) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$10$2 -> ml.qingsu.test.dx:
+ml.qingsu.test.Tools$10$2 -> ml.qingsu.test.ec:
     ml.qingsu.test.Tools$10 this$0 -> a
     void <init>(ml.qingsu.test.Tools$10) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$10$3 -> ml.qingsu.test.dy:
+ml.qingsu.test.Tools$10$3 -> ml.qingsu.test.ed:
     java.util.ArrayList val$mns -> a
     ml.qingsu.test.Tools$10 this$0 -> b
     void <init>(ml.qingsu.test.Tools$10,java.util.ArrayList) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$11 -> ml.qingsu.test.dz:
+ml.qingsu.test.Tools$11 -> ml.qingsu.test.ee:
     android.content.Context val$con -> a
     void <init>(android.content.Context) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Tools$2 -> ml.qingsu.test.ea:
+ml.qingsu.test.Tools$2 -> ml.qingsu.test.ef:
     android.app.Activity val$con -> a
     android.content.SharedPreferences val$sp -> b
     void <init>(android.app.Activity,android.content.SharedPreferences) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Tools$2$1 -> ml.qingsu.test.eb:
+ml.qingsu.test.Tools$2$1 -> ml.qingsu.test.eg:
     ml.qingsu.test.Tools$2 this$0 -> a
     void <init>(ml.qingsu.test.Tools$2) -> <init>
     void onInput(java.lang.String) -> a
-ml.qingsu.test.Tools$3 -> ml.qingsu.test.ec:
+ml.qingsu.test.Tools$3 -> ml.qingsu.test.eh:
     android.content.SharedPreferences val$sp -> a
     android.app.Activity val$con -> b
     void <init>(android.content.SharedPreferences,android.app.Activity) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
-ml.qingsu.test.Tools$5 -> ml.qingsu.test.ed:
+ml.qingsu.test.Tools$5 -> ml.qingsu.test.ei:
     ml.qingsu.test.Tools$LaquanquanCallBack val$lcb -> a
     java.lang.String val$QQ -> b
     void <init>(ml.qingsu.test.Tools$LaquanquanCallBack,java.lang.String) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$6 -> ml.qingsu.test.ee:
+ml.qingsu.test.Tools$6 -> ml.qingsu.test.ej:
     java.lang.String val$so -> a
     ml.qingsu.test.Tools$FindAPPCallBack val$facb -> b
     void <init>(java.lang.String,ml.qingsu.test.Tools$FindAPPCallBack) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$7 -> ml.qingsu.test.ef:
+ml.qingsu.test.Tools$7 -> ml.qingsu.test.ek:
     java.lang.String val$so -> a
     ml.qingsu.test.Tools$FindAPPCallBack val$facb -> b
     void <init>(java.lang.String,ml.qingsu.test.Tools$FindAPPCallBack) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$8 -> ml.qingsu.test.eg:
+ml.qingsu.test.Tools$8 -> ml.qingsu.test.el:
     java.lang.String val$so -> a
     ml.qingsu.test.Tools$FindAPPCallBack val$facb -> b
     void <init>(java.lang.String,ml.qingsu.test.Tools$FindAPPCallBack) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$9 -> ml.qingsu.test.eh:
+ml.qingsu.test.Tools$9 -> ml.qingsu.test.em:
     java.lang.String val$order -> a
     java.lang.String val$so -> b
     int val$page -> c
     ml.qingsu.test.Tools$FindAPPCallBack val$facb -> d
     void <init>(java.lang.String,java.lang.String,int,ml.qingsu.test.Tools$FindAPPCallBack) -> <init>
     void run() -> run
-ml.qingsu.test.Tools$FindAPPCallBack -> ml.qingsu.test.ei:
+ml.qingsu.test.Tools$FindAPPCallBack -> ml.qingsu.test.en:
     void finished(java.util.Vector) -> a
-ml.qingsu.test.Tools$FindMusicCallBack -> ml.qingsu.test.ej:
+ml.qingsu.test.Tools$FindMusicCallBack -> ml.qingsu.test.eo:
     void finished(java.util.List) -> a
-ml.qingsu.test.Tools$LaquanquanCallBack -> ml.qingsu.test.ek:
+ml.qingsu.test.Tools$LaquanquanCallBack -> ml.qingsu.test.ep:
     void finished(boolean) -> a
 ml.qingsu.test.TranslateJava -> ml.qingsu.test.TranslateJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.TranslateJava$1 -> ml.qingsu.test.el:
+ml.qingsu.test.TranslateJava$1 -> ml.qingsu.test.eq:
     android.widget.EditText val$et -> a
     java.lang.String val$appname -> b
     java.lang.String val$apikey -> c
@@ -1262,7 +1295,7 @@ ml.qingsu.test.TranslateJava$1 -> ml.qingsu.test.el:
     ml.qingsu.test.TranslateJava this$0 -> e
     void <init>(ml.qingsu.test.TranslateJava,android.widget.EditText,java.lang.String,java.lang.String,android.widget.EditText) -> <init>
     void onClick(android.view.View) -> onClick
-ml.qingsu.test.TranslateJava$1$1 -> ml.qingsu.test.em:
+ml.qingsu.test.TranslateJava$1$1 -> ml.qingsu.test.er:
     ml.qingsu.test.TranslateJava$1 this$1 -> a
     void <init>(ml.qingsu.test.TranslateJava$1) -> <init>
     void onGet(java.lang.String) -> a
@@ -1276,12 +1309,12 @@ ml.qingsu.test.WeatherJava -> ml.qingsu.test.WeatherJava:
     void save(java.lang.String) -> a
     java.lang.String read() -> a
     void access$000(ml.qingsu.test.WeatherJava,java.lang.String) -> a
-ml.qingsu.test.WeatherJava$1 -> ml.qingsu.test.en:
+ml.qingsu.test.WeatherJava$1 -> ml.qingsu.test.es:
     java.lang.String val$c -> a
     ml.qingsu.test.WeatherJava this$0 -> b
     void <init>(ml.qingsu.test.WeatherJava,java.lang.String) -> <init>
     void onGet(java.lang.String) -> a
-ml.qingsu.test.WeatherJava$1$1 -> ml.qingsu.test.eo:
+ml.qingsu.test.WeatherJava$1$1 -> ml.qingsu.test.et:
     ml.qingsu.test.WeatherJava$1 this$1 -> a
     void <init>(ml.qingsu.test.WeatherJava$1) -> <init>
     void onGet(java.lang.String) -> a
@@ -1293,7 +1326,7 @@ ml.qingsu.test.YiYan_WidgetProvider -> ml.qingsu.test.YiYan_WidgetProvider:
 ml.qingsu.test.YiYan_settingsJava -> ml.qingsu.test.YiYan_settingsJava:
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
-ml.qingsu.test.YiYan_settingsJava$1 -> ml.qingsu.test.ep:
+ml.qingsu.test.YiYan_settingsJava$1 -> ml.qingsu.test.eu:
     android.widget.EditText val$et -> a
     android.content.SharedPreferences$Editor val$edit -> b
     java.lang.String val$message -> c
@@ -1314,6 +1347,7 @@ ml.qingsu.wifi.CommonTools -> ml.qingsu.a.a:
     java.lang.String Root_Run_command(java.lang.String[],android.content.Context) -> a
     android.graphics.Bitmap addLogo(android.graphics.Bitmap,android.graphics.Bitmap) -> a
     boolean Image_createQRImage(java.lang.String,int,int,android.graphics.Bitmap,java.lang.String) -> a
+    java.lang.String String_Between(java.lang.String,java.lang.String,java.lang.String) -> a
     boolean Network_isAvailable(android.content.Context) -> c
     void Toast_setduration(android.widget.Toast,int) -> a
     void Toast_short(android.content.Context,java.lang.String) -> c

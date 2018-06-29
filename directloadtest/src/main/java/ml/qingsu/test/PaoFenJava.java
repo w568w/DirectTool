@@ -18,10 +18,10 @@ public class PaoFenJava extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pao_fen_java);
-        Button b= (Button) findViewById(R.id.paofen_button);
-        TextView tv=(TextView)findViewById(R.id.paofen_textView);
-        final SharedPreferences sp=getSharedPreferences("paofen",MODE_PRIVATE);
-        tv.setText(sp.getInt("score",-1)+"");
+        Button b = (Button) findViewById(R.id.paofen_button);
+        TextView tv = (TextView) findViewById(R.id.paofen_textView);
+        final SharedPreferences sp = getSharedPreferences("paofen", MODE_PRIVATE);
+        tv.setText(sp.getInt("score", -1) + "");
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -31,8 +31,8 @@ public class PaoFenJava extends Activity {
                         .setPositiveButton("是", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
-                                sp.edit().putInt("score",0).apply();
-                                startActivity(new Intent(PaoFenJava.this,Paofen_TASK_Java.class));
+                                sp.edit().putInt("score", 0).apply();
+                                startActivity(new Intent(PaoFenJava.this, Paofen_TASK_Java.class));
                             }
                         })
                         .setNegativeButton("无可奉告", null)

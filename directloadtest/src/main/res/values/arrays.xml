@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="code_runner">
+        <item>C</item>
+        <item>C++</item>
+        <item>D</item>
+        <item>Haskell</item>
+        <item>Lua</item>
+        <item>OCaml</item>
+        <item>PHP</item>
+        <item>Perl</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Scheme</item>
+        <item>Tcl</item>
+    </string-array>
+</resources>

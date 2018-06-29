@@ -1,14 +1,26 @@
 [
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility_service_config.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\accessibility_service_config.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/xml/provider.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/xml/provider.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\lock_screen.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\lock_screen.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\lock_screen.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\lock_screen.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\provider.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\provider.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/xml/accessibility_service_config.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/xml/lock_screen.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/xml/lock_screen.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility_service_config.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\xml\\provider.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\xml\\provider.xml"
     }
 ]

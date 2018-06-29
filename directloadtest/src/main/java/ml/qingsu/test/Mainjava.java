@@ -74,12 +74,16 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text_name) {
-                if (text_name.trim().equals("")) return;
+                if ("".equals(text_name.trim())) {
+                    return;
+                }
                 CommonTools.Dialog_input(Mainjava.this, "输好了", "输入动作", new CommonTools.OnInput() {
 
                     @Override
                     public void onInput(String text_active) {
-                        if (text_active.trim().equals("")) return;
+                        if ("".equals(text_active.trim())) {
+                            return;
+                        }
                         StringBuffer sb = new StringBuffer();
                         sb.append(text_name);
                         sb.append((char) 0x202e);
@@ -102,7 +106,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text_name) {
-                if (text_name.trim().equals("")) return;
+                if ("".equals(text_name.trim())) {
+                    return;
+                }
                 StringBuilder sb = new StringBuilder();
                 sb.append("[em]e10033[/em] ");
                 sb.append(text_name);
@@ -119,7 +125,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(String text) {
-                if (text.equals("")) return;
+                if ("".equals(text)) {
+                    return;
+                }
                 Tools.QQLaquanquan(text, la_quan_quan_OnCallBack());
 
             }
@@ -162,9 +170,9 @@ public class Mainjava extends Activity {
             String pass = oneKey.Password;
             toast_results += ssid + "---" + pass + "\n";
         }
-        if (wiFiKeyMap.size() < 5)
+        if (wiFiKeyMap.size() < 5) {
             Toast.makeText(this, toast_results, Toast.LENGTH_LONG).show();
-        else {
+        } else {
             Intent i = new Intent(this, ViewJava.class);
             i.putExtra("view", toast_results);
             this.startActivity(i);
@@ -176,7 +184,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 Tools.Start_shouji_so(text, new Tools.FindAPPCallBack() {
 
                     @Override
@@ -204,7 +214,7 @@ public class Mainjava extends Activity {
                                     SparseArray<Object> hash = new SparseArray<>();
                                     hash.put(0, value.getApp_name());
                                     hash.put(1, value.getApp_image());
-                                    hash.put(2, value.getApp_introduction());
+                                    hash.put(2, value.getAppIntroduction());
                                     hash.put(3, value.getApp_sites());
                                     hash.put(4, value.getApp_size());
                                     itemlist.add(hash);
@@ -231,7 +241,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 Tools.Start_coolapk_so(text, new Tools.FindAPPCallBack() {
 
                     @Override
@@ -256,11 +268,13 @@ public class Mainjava extends Activity {
                                 while (iter.hasNext()) {
 
                                     AppNode value = iter.next();
-                                    if (value.getApp_name().trim().equals("")) continue;
+                                    if ("".equals(value.getApp_name().trim())) {
+                                        continue;
+                                    }
                                     SparseArray<Object> hash = new SparseArray<Object>();
                                     hash.put(0, value.getApp_name());
                                     hash.put(1, value.getApp_image());
-                                    hash.put(2, value.getApp_introduction());
+                                    hash.put(2, value.getAppIntroduction());
                                     hash.put(3, value.getApp_sites());
                                     hash.put(4, value.getApp_size());
                                     itemlist.add(hash);
@@ -287,7 +301,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 Tools.Start_baidu_so(text.trim() + "&currentPage=1", new Tools.FindAPPCallBack() {
 
                     @Override
@@ -307,11 +323,13 @@ public class Mainjava extends Activity {
                         while (iter.hasNext()) {
 
                             AppNode value = iter.next();
-                            if (value.getApp_name().trim().equals("")) continue;
+                            if ("".equals(value.getApp_name().trim())) {
+                                continue;
+                            }
                             SparseArray<Object> hash = new SparseArray<>();
                             hash.put(0, value.getApp_name());
                             hash.put(1, value.getApp_image());
-                            hash.put(2, value.getApp_introduction());
+                            hash.put(2, value.getAppIntroduction());
                             hash.put(3, value.getApp_sites());
                             hash.put(4, value.getApp_size());
                             itemlist.add(hash);
@@ -341,7 +359,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 Tools.Start_zhongzi_so(text.trim(), 1, "list", new Tools.FindAPPCallBack() {
 
                     @Override
@@ -361,11 +381,13 @@ public class Mainjava extends Activity {
                         while (iter.hasNext()) {
 
                             AppNode value = iter.next();
-                            if (value.getApp_name().trim().equals("")) continue;
+                            if ("".equals(value.getApp_name().trim())) {
+                                continue;
+                            }
                             SparseArray<Object> hash = new SparseArray<>();
                             hash.put(0, value.getApp_name());
                             hash.put(1, value.getApp_image());
-                            hash.put(2, value.getApp_introduction());
+                            hash.put(2, value.getAppIntroduction());
                             hash.put(3, value.getApp_sites());
                             hash.put(4, value.getApp_size());
                             itemlist.add(hash);
@@ -396,7 +418,7 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(String text) {
-                if (text.trim().toLowerCase(Locale.ENGLISH).equals("fuck")) {
+                if ("fuck".equals(text.trim().toLowerCase(Locale.ENGLISH))) {
                     Parameters p = new Parameters();
                     p.put("num", "1");
                     ApiStoreSDK.execute(Mainjava.this, "http://apis.baidu.com/txapi/mvtp/meinv", p,
@@ -603,7 +625,9 @@ public class Mainjava extends Activity {
 
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 new Thread(new Runnable() {
 
                     @Override
@@ -653,26 +677,27 @@ public class Mainjava extends Activity {
     }
 
     private void BOOM() {
-        Random r=new Random();
-        int a=r.nextInt(10);
-        int b=a-r.nextInt(10);
-        int n=r.nextInt(5);
-        int k=r.nextInt(10);
-        final String result=(Math.pow(a,n+1)+k*a-Math.pow(b,n+1)-k*b)+"";
+        Random r = new Random();
+        int a = r.nextInt(10);
+        int b = a - r.nextInt(10);
+        int n = r.nextInt(5);
+        int k = r.nextInt(10);
+        final String result = (Math.pow(a, n + 1) + k * a - Math.pow(b, n + 1) - k * b) + "";
 
         LayoutInflater iInflater = LayoutInflater.from(this);
-        ViewGroup vv=(ViewGroup) iInflater.inflate(R.layout.input, null);
-        final EditText v= (EditText)vv.findViewById(id.editText);
+        ViewGroup vv = (ViewGroup) iInflater.inflate(R.layout.input, null);
+        final EditText v = (EditText) vv.findViewById(id.editText);
         v.setHint("结果保留整数");
         Builder ab = new Builder(this);
-        ab.setTitle("对于f(x)=x^"+n+"*"+(n+1)+"+"+k+",在"+b+"到"+a+"间求积分").setView(vv).setPositiveButton("OK", new DialogInterface.OnClickListener() {
+        ab.setTitle("对于f(x)=x^" + n + "*" + (n + 1) + "+" + k + ",在" + b + "到" + a + "间求积分").setView(vv).setPositiveButton("OK", new DialogInterface.OnClickListener() {
 
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                if((v.getText().toString().trim()+".0").equals(result))
+                if ((v.getText().toString().trim() + ".0").equals(result)) {
                     startActivity(new Intent(Mainjava.this, HongzhaJava.class));
-                else
+                } else {
                     Toast.makeText(Mainjava.this, "错误!", Toast.LENGTH_SHORT).show();
+                }
             }
         });
         ab.show();
@@ -686,7 +711,9 @@ public class Mainjava extends Activity {
                 text = text.trim();
                 try {
                     long num = Long.parseLong(text);
-                    if (num <= 0) throw new NumberFormatException();
+                    if (num <= 0) {
+                        throw new NumberFormatException();
+                    }
                     Mainjava.SuShuCalcTask ssct = new Mainjava.SuShuCalcTask();
                     ssct.execute(num);
                 } catch (NumberFormatException e) {
@@ -703,7 +730,9 @@ public class Mainjava extends Activity {
             @Override
             public void onInput(String text) {
                 text = text.trim().toLowerCase().replace("av", "");
-                if (text.equals("")) return;
+                if ("".equals(text)) {
+                    return;
+                }
                 final String finalText = text;
                 new Thread(new Runnable() {
                     @Override
@@ -715,7 +744,7 @@ public class Mainjava extends Activity {
                             final String title = jo.optString("title", "");
                             if ((pic = jo.optString("pic")) != null) {
                                 try {
-                                    final Bitmap b = ImageService.getImageBitmap(pic.replace("//", "http://"));
+                                    final Bitmap b = ImageService.getImageBitmap(pic);
                                     runOnUiThread(new Runnable() {
                                         @Override
                                         public void run() {
@@ -793,11 +822,15 @@ public class Mainjava extends Activity {
         CommonTools.Dialog_input(this, "下一步", "输入来信人的号码!", new CommonTools.OnInput() {
             @Override
             public void onInput(final String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 CommonTools.Dialog_input(Mainjava.this, "完成", "输入来信内容!", new CommonTools.OnInput() {
                     @Override
                     public void onInput(final String text1) {
-                        if (text1.trim().equals("")) return;
+                        if ("".equals(text1.trim())) {
+                            return;
+                        }
                         new Thread(new Runnable() {
                             @Override
                             public void run() {
@@ -825,7 +858,9 @@ public class Mainjava extends Activity {
         CommonTools.Dialog_input(this, "加密", "1246a35666226006", new CommonTools.OnInput() {
             @Override
             public void onInput(String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 String pass = MD5.stringMD5(text);
                 ClipboardManager c = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
                 c.setText(pass);
@@ -864,7 +899,9 @@ public class Mainjava extends Activity {
         CommonTools.Dialog_input(this, "缩短", "http://coolapk.com/", new CommonTools.OnInput() {
             @Override
             public void onInput(String text) {
-                if (text.trim().equals("")) return;
+                if ("".equals(text.trim())) {
+                    return;
+                }
                 try {
                     CommonTools.Network_SendGet_ASYNC(Mainjava.this, "http://980.so/api.php?url=" + URLEncoder.encode(text, "utf-8"), new CommonTools.OnGet() {
                         @Override
@@ -897,112 +934,118 @@ public class Mainjava extends Activity {
 
 
                 String tv = ((TextView) view.findViewById(id.textView_title)).getText().toString();
-                if (tv.equals("WiFi密码查看")) {
+                if ("WiFi密码查看".equals(tv)) {
                     WiFi();
                 }
-                if (tv.equals("Todo List")) {
+                if ("Todo List".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, TodoListJava.class));
                 }
-                if (tv.equals("手电筒")) {
+                if ("手电筒".equals(tv)) {
                     light();
                 }
-                if (tv.equals("快速翻译")) {
+                if ("快速翻译".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, TranslateJava.class));
                 }
-                if (tv.equals("网易云音乐启动背景替换")) {
+                if ("网易云音乐启动背景替换".equals(tv)) {
                     Tools.Modi_WangYi_Mp3_UI_beginning(Mainjava.this);
                 }
-                if (tv.equals("关机重启")) {
+                if ("关机重启".equals(tv)) {
                     Shutdown();
                 }
                 // --------------QQ----------------
-                if (tv.equals("QQ空间自定义打赏"))
+                if ("QQ空间自定义打赏".equals(tv)) {
                     QQDaShang();
-                if (tv.equals("QQ拉圈圈")) {
+                }
+                if ("QQ拉圈圈".equals(tv)) {
                     La_quan_quan();
                 }
-                if (tv.equals("QQ音乐加速")) {
+                if ("QQ音乐加速".equals(tv)) {
                     QQMusic();
                 }
-                if (tv.equals("QQ撤回消息自定义")) {
+                if ("QQ撤回消息自定义".equals(tv)) {
                     QQCheHuiXiaoXi();
                 }
-                if (tv.equals("QQ聊天字数突破")) {
+                if ("QQ聊天字数突破".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, QQZiShuJava.class));
                 }
                 // --------------QQ--END---------
-                if (tv.equals("手机乐园搜索")) {
+                if ("手机乐园搜索".equals(tv)) {
                     ShouJiLeYuanSouSuo();
                 }
-                if (tv.equals("酷安应用搜索")) {
+                if ("酷安应用搜索".equals(tv)) {
                     CoolapkSouSuo();
                 }
-                if (tv.equals("百度网盘搜索")) {
+                if ("百度网盘搜索".equals(tv)) {
                     BaiduSousuo();
                 }
-                if (tv.equals("种子搜索")) {
+                if ("种子搜索".equals(tv)) {
                     ZhongziSousuo();
                 }
-                if (tv.equals("天气预报")) {
+                if ("天气预报".equals(tv)) {
                     Tools.TianQi(Mainjava.this);
                 }
-                if (tv.equals("simsimi")) {
+                if ("simsimi".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, TalkJava.class));
                 }
-                if (tv.equals("压力测试")) {
+                if ("压力测试".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, PaoFenJava.class));
                 }
-                if (tv.equals("虚拟短信")) {
+                if ("虚拟短信".equals(tv)) {
                     FakeSMS();
                 }
-                if (tv.equals("停止运行")) {
+                if ("停止运行".equals(tv)) {
                     FC();
                 }
-                if (tv.equals("生成二维码")) {
+                if ("生成二维码".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, QRcodeJava.class));
                 }
-                if (tv.equals("生成短网址")) {
+                if ("生成短网址".equals(tv)) {
                     Shorturl();
                 }
-                if (tv.equals("一键锁屏")) {
+                if ("一键锁屏".equals(tv)) {
                     CommonTools.System_Install_New_ShortCut(Mainjava.this, "一键锁屏", drawable.lock,
                             LockJava.class);
                 }
-                if (tv.equals("Booru壹图")) {
+                if ("Booru壹图".equals(tv)) {
                     BooruPic();
                 }
-                if (tv.equals("轰炸机")) {
+                if ("轰炸机".equals(tv)) {
                     BOOM();
                 }
-                if (tv.equals("测量小工具")) {
+                if ("测量小工具".equals(tv)) {
                     TreasureTools();
                 }
-                if (tv.equals("MD5加密")) {
+                if ("MD5加密".equals(tv)) {
                     MD5();
                 }
-                if (tv.equals("蛤蛤蛤")) {
+                if ("蛤蛤蛤".equals(tv)) {
                     MeiTu();
                 }
-                if (tv.equals("素数判断")) {
+                if ("素数判断".equals(tv)) {
                     Calc_SuShu();
                 }
-                if (tv.equals("获取Bilibili封面")) {
+                if ("获取Bilibili封面".equals(tv)) {
                     BiliBiliAV();
                 }
-                if (tv.equals("烧机")) {
+                if ("烧机".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, ShaojiJava.class));
                 }
 
-                if (tv.equals("设置")) {
+                if ("设置".equals(tv)) {
                     startActivity(new Intent(Mainjava.this, SettingsJava.class));
                 }
                 // -------------------SYSTEM------------
-                if (tv.equals("去除通知栏感叹号")) {
+                if ("去除通知栏感叹号".equals(tv)) {
                     Clean_Gan_tan_hao();
                 }
-                if (tv.equals("SELinux开关")) {
+                if ("SELinux开关".equals(tv)) {
                     SetSELinux();
                 }
+                // -------------------DEVELOPER------------
+//                if(tv.equals("Run Code"))
+//                {
+//                    startActivity(new Intent(Mainjava.this, CodeRunnerJava.class));
+//                }
 
             }
 
@@ -1016,10 +1059,10 @@ public class Mainjava extends Activity {
                 return GetListData.getData();
             case id.menu_qq:
                 return GetListData.getQQData();
-            case id.menu_search:
-                return GetListData.getSoData();
             case id.menu_system:
                 return GetListData.getSystemData();
+//            case id.menu_develop:
+//                return GetListData.getDevelopData();
             case id.menu_happy:
                 return GetListData.getHappyData();
             default:
@@ -1035,7 +1078,7 @@ public class Mainjava extends Activity {
 
     @Override
     public boolean onOptionsItemSelected(final MenuItem item) {
-        if (item.getTitle().toString().equals("推·乐(Beta)")) {
+        if ("推·乐(Beta)".equals(item.getTitle().toString())) {
             startActivity(new Intent(this, MusicJava.class));
             return true;
         }
@@ -1103,7 +1146,7 @@ public class Mainjava extends Activity {
         // TODO 实验性功能!!!!!!!!!!!!
 //    if (requestCode == 0x128 && resultCode == RESULT_OK) {
 //
-//      InputStream reader = Tools.GetISfromIntent(data, this);
+//      InputStream reader = Tools.getisfromintent(data, this);
 //      byte[] buffer = new byte[] {};
 //      try {
 //        buffer = new byte[reader.available()];
@@ -1127,7 +1170,7 @@ public class Mainjava extends Activity {
 //
 //    }
         // TODO 实验性功能!!!!!!!!!!!!
-        Tools.Modi_WangYi_Mp3_UI_doing(this, requestCode, resultCode, data);
+        Tools.modiWangyiMp3UiDoing(this, requestCode, resultCode, data);
     }
 
     public class SuShuCalcTask extends AsyncTask<Long, Integer, Boolean> {
@@ -1185,7 +1228,9 @@ public class Mainjava extends Activity {
             long half = a / 2;
             this.num = a;
             for (long i = 2; i <= half; i++) {
-                if (a % i == 0) return false;
+                if (a % i == 0) {
+                    return false;
+                }
                 this.publishProgress((int) (i * 100 / half));
             }
 

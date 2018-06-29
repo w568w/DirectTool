@@ -4,6 +4,9 @@
 # view AndroidManifest.xml #generated:122
 -keep class ml.qingsu.test.CleanerJava { <init>(...); }
 
+# view AndroidManifest.xml #generated:123
+-keep class ml.qingsu.test.CodeRunnerJava { <init>(...); }
+
 # view AndroidManifest.xml #generated:83
 -keep class ml.qingsu.test.FenbeiJava { <init>(...); }
 

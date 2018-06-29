@@ -12,24 +12,28 @@
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\hahaha_toast.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hahaha_toast.xml"
-    },
-    {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\music_look_for_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_look_for_activity.xml"
-    },
-    {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\so_list_items.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list_items.xml"
-    },
-    {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\translate_activity.xml",
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\translate_activity.xml"
     },
     {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\activity_cleaner_java.xml",
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_cleaner_java.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\activity_code_runner_java.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_code_runner_java.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\so_list_items.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list_items.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\music_look_for_activity.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_look_for_activity.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\hahaha_toast.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hahaha_toast.xml"
     },
     {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\activity_todo_list.xml",
@@ -52,28 +56,28 @@
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\launcher_view.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\launcher_view.xml"
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\talk_acticity.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\talk_acticity.xml"
     },
     {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\music_activity.xml",
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_activity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\talk_acticity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\talk_acticity.xml"
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\launcher_view.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\launcher_view.xml"
     },
     {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\yiyan_settings_activity.xml",
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\yiyan_settings_activity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\simple_item.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\simple_item.xml"
-    },
-    {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\input.xml",
         "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\simple_item.xml",
+        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\simple_item.xml"
     },
     {
         "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\release\\layout\\hongzha_activity.xml",

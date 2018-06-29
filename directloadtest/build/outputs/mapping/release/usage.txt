@@ -213,6 +213,7 @@ com.ericsoft.bmob.restapi.BmobE:
     635:637:private static com.ericsoft.bmob.bson.BSONObject whereForBSONObject(java.lang.String)
 com.example.directloadtest.BuildConfig
 com.example.directloadtest.R
+com.example.directloadtest.R$array
 com.example.directloadtest.R$attr
 com.example.directloadtest.R$dimen
 com.example.directloadtest.R$drawable
@@ -497,11 +498,12 @@ ml.qingsu.test.Rotate3dAnimation$AnimationListener
 ml.qingsu.test.StreamTool
 ml.qingsu.test.Tools:
     public static final int requestcode
-    50:926:public Tools()
+    50:930:public Tools()
     505:518:public void FUCK(android.widget.ImageView,android.widget.TextView,java.lang.String,java.lang.String)
     544:554:public static void Modi_WeiXin_UI_beginning(android.app.Activity)
     604:609:public static java.io.InputStream GetISfromIntent(android.content.Intent,android.app.Activity)
     808:815:public static boolean isRoot()
+    922:922:public static void developer_run_code(android.app.Activity)
 ml.qingsu.test.Tools$4
 ml.qingsu.test.TranAnimation
 ml.qingsu.test.WeatherJava:
@@ -513,7 +515,6 @@ ml.qingsu.wifi.CommonTools:
     374:385:public static void Network_OpenNetworkSettings(android.content.Context)
     387:395:public static void SQLite_async_open(java.io.File,ml.qingsu.wifi.CommonTools$SQLite_OnreadOK)
     398:400:public static boolean Network_3GConnected(android.content.Context)
-    405:409:public static java.lang.String String_Between(java.lang.String,java.lang.String,java.lang.String)
     413:415:public static boolean Network_WIFIConnected(android.content.Context)
     420:422:public static boolean Network_WIFIAvailable(android.content.Context)
     547:554:public static android.graphics.Bitmap Image_resizeBitmap(android.graphics.Bitmap,int,int)

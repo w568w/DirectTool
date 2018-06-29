@@ -6,7 +6,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="想说的话..."
+        android:hint="以及想说的话..."
         android:id="@+id/music_add_des" />
 
     <TextView

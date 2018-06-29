@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/jniLibs"><file name="armeabi/liba.so" path="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/jniLibs/armeabi/liba.so"/></source></dataSet><dataSet config="debug"><source path="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/debug/jniLibs"/></dataSet></merger>

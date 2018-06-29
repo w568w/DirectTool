@@ -40,7 +40,9 @@ public class TranslateJava extends Activity {
             @Override
             public void onClick(View v) {
                 String input = et.getText().toString();
-                if (input == null || input.trim().equals("")) return;
+                if (input == null || "".equals(input.trim())) {
+                    return;
+                }
                 try {
                     input = URLEncoder.encode(input, "UTF-8");
                 } catch (UnsupportedEncodingException e1) {

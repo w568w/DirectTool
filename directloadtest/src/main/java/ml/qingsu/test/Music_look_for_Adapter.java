@@ -14,52 +14,54 @@ import org.json.JSONArray;
 import org.json.JSONException;
 
 public class Music_look_for_Adapter extends BaseAdapter {
-	JSONArray ja;
-	private final LayoutInflater li;
-	public Music_look_for_Adapter(JSONArray ja, Context con) {
-		this.ja = ja;
-		this.li =LayoutInflater.from(con);
-	}
+    JSONArray ja;
+    private final LayoutInflater li;
 
-	@Override
-	public int getCount() {
-		
-		return this.ja.length();
-	}
+    public Music_look_for_Adapter(JSONArray ja, Context con) {
+        this.ja = ja;
+        this.li = LayoutInflater.from(con);
+    }
 
-	@Override
-	public Object getItem(int arg0) {
-		
-		try {
-			return this.ja.getJSONObject(arg0);
-		} catch (JSONException e) {
-			e.printStackTrace();
-		}
-		return null;
-	}
+    @Override
+    public int getCount() {
 
-	@Override
-	public long getItemId(int position) {
-		
-		return position;
-	}
+        return this.ja.length();
+    }
 
-	@Override
-	public View getView(int position, View convertView, ViewGroup parent) {
-		View v=convertView;
-		if(v==null)
-			v= this.li.inflate(layout.simple_item, null);
-		TextView t=(TextView)v.findViewById(id.item_textView);
-		try {
-			t.setText(this.ja.getJSONObject(position).getString("filename"));
-			t.setTag(this.ja.getJSONObject(position).getString("hash"));
-			
-		} catch (JSONException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		return v;
-	}
+    @Override
+    public Object getItem(int arg0) {
+
+        try {
+            return this.ja.getJSONObject(arg0);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    @Override
+    public long getItemId(int position) {
+
+        return position;
+    }
+
+    @Override
+    public View getView(int position, View convertView, ViewGroup parent) {
+        View v = convertView;
+        if (v == null) {
+            v = this.li.inflate(layout.simple_item, null);
+        }
+        TextView t = (TextView) v.findViewById(id.item_textView);
+        try {
+            t.setText(this.ja.getJSONObject(position).getString("filename"));
+            t.setTag(this.ja.getJSONObject(position).getString("hash"));
+
+        } catch (JSONException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        return v;
+    }
 
 }

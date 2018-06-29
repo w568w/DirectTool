@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\menu\\main_menu.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/menu/main_menu.xml"
     }
 ]

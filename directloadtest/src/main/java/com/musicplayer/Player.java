@@ -1,6 +1,7 @@
 package com.musicplayer;
+
 public class Player /*implements OnBufferingUpdateListener,
- OnCompletionListener, MediaPlayer.OnPreparedListener*/{
+ OnCompletionListener, MediaPlayer.OnPreparedListener*/ {
 //	//http://www.jb51.net/article/53482.htm
 // public MediaPlayer mediaPlayer;
 // private SeekBar skbProgress;

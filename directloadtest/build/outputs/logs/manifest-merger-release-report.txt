@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:2:1-123:12
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:2:1-124:12
 	xmlns:tools
 		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
@@ -106,7 +106,7 @@ ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest
 	android:name
 		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:31:22-77
 application
-ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:33:5-121:19
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:33:5-122:19
 	android:label
 		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:37:9-41
 	android:allowBackup
@@ -294,9 +294,13 @@ ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest
 	android:name
 		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:119:19-65
 activity#ml.qingsu.test.CleanerJava
-ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:120:9-72
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:120:9-63
 	android:name
 		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:120:19-60
+activity#ml.qingsu.test.CodeRunnerJava
+ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:121:9-75
+	android:name
+		ADDED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml:121:19-63
 uses-sdk
 INJECTED from D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\src\main\AndroidManifest.xml reason: use-sdk injection requested
 	android:targetSdkVersion

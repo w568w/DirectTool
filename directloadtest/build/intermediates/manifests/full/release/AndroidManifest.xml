@@ -120,6 +120,7 @@
         <activity android:name="ml.qingsu.test.PaoFenJava" />
         <activity android:name="ml.qingsu.test.Paofen_TASK_Java" />
         <activity android:name="ml.qingsu.test.CleanerJava" />
+        <activity android:name="ml.qingsu.test.CodeRunnerJava" />
     </application>
 
 </manifest>

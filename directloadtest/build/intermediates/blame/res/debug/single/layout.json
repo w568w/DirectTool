@@ -1,98 +1,406 @@
 [
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\hongzha_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hongzha_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/activity_cleaner_java.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/activity_cleaner_java.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\yiyan_settings_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\yiyan_settings_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\hahaha_toast.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hahaha_toast.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity_items.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\main_activity_items.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/activity_todo_list.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/activity_todo_list.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pao_fen_java.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_pao_fen_java.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_todo_list.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_todo_list.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_activity_item.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_activity_item.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\settings_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_look_for_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_look_for_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\so_list.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_activity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\feibei_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\feibei_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/so_list_items.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/so_list_items.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\qq_zishu_actvity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\qq_zishu_actvity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\so_list_items.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list_items.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/feibei_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/feibei_activity.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\qrcode_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\launcher_view.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\launcher_view.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shaoji.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_shaoji.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shaoji.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_shaoji.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_activity.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_code_runner_java.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_code_runner_java.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\talk_acticity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\talk_acticity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/simple_item.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/simple_item.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cleaner_java.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_cleaner_java.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\launcher_view.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\launcher_view.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\translate_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\translate_activity.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\coolapk_item.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\coolapk_item.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\qq_zishu_actvity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\qq_zishu_actvity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_add_activity.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_add_activity.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\simple_item.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\simple_item.xml"
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
-        "source": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\input.xml"
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pao_fen_java.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_pao_fen_java.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\so_list.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_activity_item.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_activity_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/activity_pao_fen_java.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/activity_pao_fen_java.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/main_activity_items.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/main_activity_items.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/activity_shaoji.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/activity_shaoji.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/qrcode_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/qrcode_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/hahaha_toast.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/hahaha_toast.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cleaner_java.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_cleaner_java.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\simple_item.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\simple_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\hahaha_toast.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hahaha_toast.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\qrcode_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\translate_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\translate_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/translate_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/translate_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/coolapk_item.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/coolapk_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/music_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/music_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/hongzha_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/hongzha_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/qq_zishu_actvity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/qq_zishu_actvity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\so_list_items.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\so_list_items.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/input.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\hongzha_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\hongzha_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\yiyan_settings_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\yiyan_settings_activity.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/talk_acticity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/talk_acticity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/so_list.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/so_list.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/activity_code_runner_java.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/activity_code_runner_java.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_add_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_add_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/launcher_view.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/launcher_view.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/settings_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\music_look_for_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\music_look_for_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/music_activity_item.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/music_activity_item.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/yiyan_settings_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/yiyan_settings_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\talk_acticity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\talk_acticity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/music_add_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/music_add_activity.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity_items.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\main_activity_items.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\feibei_activity.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\feibei_activity.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_todo_list.xml",
+        "source": "/home/w568w/StudioProjects/directloadtest2/D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\layout\\activity_todo_list.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/res/merged/debug/layout/music_look_for_activity.xml",
+        "source": "/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/src/main/res/layout/music_look_for_activity.xml"
     }
 ]

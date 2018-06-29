@@ -4,99 +4,84 @@
         "map": [
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 969,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1337,
                     "endColumn": 57,
-                    "endOffset": 1022
+                    "endOffset": 1390
                 },
                 "from": {
-                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 90,
-                        "endColumn": 57,
-                        "endOffset": 143
-                    }
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1027,
+                    "startOffset": 1395,
                     "endColumn": 55,
-                    "endOffset": 1078
+                    "endOffset": 1446
                 },
                 "from": {
-                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 149,
-                        "endColumn": 55,
-                        "endOffset": 200
-                    }
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1083,
+                    "startOffset": 1451,
                     "endColumn": 48,
-                    "endOffset": 1127
+                    "endOffset": 1495
                 },
                 "from": {
-                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 48,
-                        "endOffset": 63
-                    }
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1132,
+                    "startOffset": 1500,
                     "endColumn": 59,
-                    "endOffset": 1187
+                    "endOffset": 1555
                 },
                 "from": {
-                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 69,
-                        "endColumn": 59,
-                        "endOffset": 124
-                    }
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1192,
-                    "endLine": 14,
+                    "startOffset": 1560,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 1478
+                    "endOffset": 1846
                 },
                 "from": {
-                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 192,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 484
-                    }
+                    "file": "D:\\Document And Settings2\\Administrator\\StudioProjects\\directloadtest2\\directloadtest\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

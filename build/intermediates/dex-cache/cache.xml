@@ -2,11 +2,85 @@
 <items version="2" >
 
     <item
-        jar="D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\libs\zxing.jar"
+        is-multidex="false"
+        jar="/home/w568w/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
-        revision="23.0.2"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c5441587118047420e0ad83298b54e9db82b6607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/f9c93357a78d907966274beee2fc5baf41a11d63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_1370400e660ae7f5ecf414e79e5f6b7dbdb46494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/dd0d67aa039ab74102d53516ed7bf8e0a7afe479/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_f96736e752d047ce5f79d4cafad8598637e1ec72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/18214fee46fe58ad37ef10a37f373dd11a80fd64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_6f5f248b85caf8b5a85174b828d91cee8e9e2d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/8bb25f9d8ccb03477060a594dc3f68409c5fe2ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_3160532eef7973283b1ba3f7356ba16a5f4d0598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
         sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
-        <dex dex="D:\Document And Settings2\Administrator\StudioProjects\directloadtest2\directloadtest\build\intermediates\pre-dexed\debug\zxing_d89426e6046b8374c5827f48a898d51a15b6dd3c.jar" />
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/zxing_34597b139f1e577fdb5bbaeb09e809567bf46981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/1480582f7ef64737a987cbfff450e4b9e6297053/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_b4fb9fec1225b5853e88b45f44045b4537c2c944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/f9c93357a78d907966274beee2fc5baf41a11d63/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2837478df31dba27c8c13c7f955bd2cc7e3c1750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/w568w/文档/.android/build-cache/ecf912f5940596cd8b4acdeb2867304aedf861aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest/build/intermediates/pre-dexed/debug/classes_7f5f11a4ea16e7be7e41911bbc30c4e1248c98ec.jar" />
     </item>
 
 </items>

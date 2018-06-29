@@ -5,19 +5,14 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\Program Files\Android\AndroidStudio\gradle\gradle-2.10" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/directloadtest" />
+            <option value="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2" />
+            <option value="/media/w568w/表情/Document And Settings2/Administrator/StudioProjects/directloadtest2/directloadtest" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/directloadtest" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
